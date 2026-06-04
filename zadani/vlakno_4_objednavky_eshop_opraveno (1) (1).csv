@@ -1,0 +1,1251 @@
+﻿id_objednavky;datum;zakaznik;produkt;kategorie;pocet;cena_za_kus;stav
+5037;2025-11-01;Kateřina Němcová;"Notebook 15""";Notebooky;3;15724;vyrizena
+5038;2025-11-01;Tereza Svobodová;Kancelářská židle;Kancelář;2;3243;vyrizena
+5117;2025-11-01;Martin Dvořák;Dokovací stanice;Příslušenství;1;2488;vyrizena
+5315;2025-11-01;Jiří Navrátil;"Notebook 15""";Notebooky;1;16478;vyrizena
+5388;2025-11-01;Matěj Navrátil;Myš bezdrátová;Periferie;2;446;vyrizena
+5583;2025-11-01;Lenka Svobodová;Stojan na notebook;Kancelář;1;718;vyrizena
+5732;2025-11-01;Adam Horák;Klávesnice USB;Periferie;2;658;vyrizena
+5865;2025-11-01;Adéla Nováková;Switch 8 portů;Síťové prvky;1;1065;vyrizena
+6039;2025-11-01;Adéla Navrátilová;"Monitor 24""";Monitory;1;3155;vyrizena
+6052;2025-11-01;Karolína Kučerová;USB disk 128 GB;Úložiště;5;361;vyrizena
+6153;2025-11-01;Martin Procházka;Klávesnice USB;Periferie;4;752;vyrizena
+6206;2025-11-01;Matěj Kučera;Externí SSD 1 TB;Úložiště;2;2510;vyrizena
+6207;2025-11-01;David Procházka;Sluchátka s mikrofonem;Audio;1;831;vyrizena
+5109;2025-11-02;Marek Pokorný;Kancelářská židle;Kancelář;2;3596;vyrizena
+5492;2025-11-02;Iveta Horáková;Kancelářská židle;Kancelář;1;3429;vyrizena
+5572;2025-11-02;Petra Černá;Tiskárna laserová;Tiskárny;3;4046;vyrizena
+5649;2025-11-02;Barbora Svobodová;LED stolní lampa;Kancelář;1;847;vyrizena
+5711;2025-11-02;Lenka Dvořáková;Switch 8 portů;Síťové prvky;2;966;vyrizena
+5825;2025-11-02;Simona Pokorná;Externí SSD 1 TB;Úložiště;1;2607;vyrizena
+5867;2025-11-02;Iveta Benešová;Tonner černý;Tiskárny;1;1542;vyrizena
+6151;2025-11-02;Daniel Němec;Sluchátka s mikrofonem;Audio;5;773;vyrizena
+6241;2025-11-02;Alena Sedláčková;Router Wi‑Fi 6;Síťové prvky;1;1969;vyrizena
+5360;2025-11-03;Alena Černá;USB disk 128 GB;Úložiště;2;325;vyrizena
+5435;2025-11-03;Jana Pokorná;"Monitor 24""";Monitory;1;3478;vyrizena
+5684;2025-11-03;Filip Svoboda;Router Wi‑Fi 6;Síťové prvky;1;1793;vyrizena
+5743;2025-11-03;Adéla Nováková;"Monitor 27""";Monitory;2;4681;vyrizena
+5811;2025-11-03;Josef Svoboda;Switch 8 portů;Síťové prvky;1;1051;vyrizena
+5818;2025-11-03;Lenka Kučerová;Externí SSD 1 TB;Úložiště;1;2685;vyrizena
+6059;2025-11-03;Michaela Hájková;"Notebook 15""";Notebooky;1;17074;vyrizena
+6110;2025-11-03;Monika Procházková;Externí SSD 1 TB;Úložiště;1;2618;vyrizena
+6185;2025-11-03;Radek Fiala;USB disk 128 GB;Úložiště;1;357;vyrizena
+5016;2025-11-04;Radek Kučera;"Monitor 24""";Monitory;3;3202;vyrizena
+5050;2025-11-04;Jan Němec;USB disk 128 GB;Úložiště;1;344;vyrizena
+5295;2025-11-04;Monika Svobodová;USB disk 128 GB;Úložiště;1;315;vyrizena
+5433;2025-11-04;Radek Černý;Tonner černý;Tiskárny;2;1622;vyrizena
+5467;2025-11-04;Radek Beneš;Tonner černý;Tiskárny;3;1458;vyrizena
+5529;2025-11-04;Karolína Pokorná;Reproduktory 2.0;Audio;1;927;vyrizena
+5602;2025-11-04;Matěj Sedláček;"Monitor 24""";Monitory;1;3105;vyrizena
+5642;2025-11-04;Michal Svoboda;LED stolní lampa;Kancelář;1;850;vyrizena
+5808;2025-11-04;Iveta Němcová;Tiskárna laserová;Tiskárny;1;4052;vyrizena
+5848;2025-11-04;Eliška Králová;LED stolní lampa;Kancelář;1;757;vyrizena
+5883;2025-11-04;Daniel Procházka;Switch 8 portů;Síťové prvky;1;1036;vyrizena
+5922;2025-11-04;Jan Němec;Dokovací stanice;Příslušenství;3;2351;vyrizena
+6190;2025-11-04;Matěj Němec;Switch 8 portů;Síťové prvky;1;920;vyrizena
+5087;2025-11-05;Adéla Nováková;Klávesnice USB;Periferie;1;683;vyrizena
+5193;2025-11-05;Lenka Horáková;Stojan na notebook;Kancelář;2;715;vyrizena
+5294;2025-11-05;Simona Jelínková;Tonner černý;Tiskárny;1;1672;vyrizena
+5371;2025-11-05;Petr Pokorný;Webkamera HD;Příslušenství;3;963;vyrizena
+5563;2025-11-05;Klára Jelínková;Dokovací stanice;Příslušenství;4;2537;vyrizena
+5618;2025-11-05;Simona Růžičková;Stojan na notebook;Kancelář;2;731;vyrizena
+5708;2025-11-05;Roman Jelínek;Myš bezdrátová;Periferie;2;464;vyrizena
+5933;2025-11-05;Simona Růžičková;Reproduktory 2.0;Audio;1;904;vyrizena
+6131;2025-11-05;Alena Králová;Externí SSD 1 TB;Úložiště;5;2386;vyrizena
+6166;2025-11-05;Marek Dvořák;LED stolní lampa;Kancelář;3;714;vyrizena
+5091;2025-11-06;Nikola Horáková;Sluchátka s mikrofonem;Audio;1;790;vyrizena
+5434;2025-11-06;Filip Svoboda;Switch 8 portů;Síťové prvky;2;913;vyrizena
+5469;2025-11-06;Roman Procházka;Tiskárna laserová;Tiskárny;1;3960;vyrizena
+5582;2025-11-06;Jan Navrátil;"Monitor 27""";Monitory;1;4556;vyrizena
+6235;2025-11-06;Ondřej Svoboda;"Monitor 27""";Monitory;1;4961;vyrizena
+5173;2025-11-07;Petra Jelínková;"Monitor 24""";Monitory;4;3187;vyrizena
+5753;2025-11-07;Eliška Jelínková;Switch 8 portů;Síťové prvky;2;947;stornovana
+5833;2025-11-07;Vojtěch Hájek;Tiskárna laserová;Tiskárny;1;4601;vyrizena
+5845;2025-11-07;Michal Sedláček;LED stolní lampa;Kancelář;2;795;vyrizena
+6018;2025-11-07;Eliška Urbanová;Externí SSD 1 TB;Úložiště;3;2694;vyrizena
+6196;2025-11-07;Jakub Navrátil;"Notebook 15""";Notebooky;1;16537;vyrizena
+6217;2025-11-07;Karolína Kučerová;Tonner černý;Tiskárny;1;1667;vyrizena
+6245;2025-11-07;Adam Sedláček;Tonner černý;Tiskárny;1;1617;vyrizena
+5079;2025-11-08;Michaela Dvořáková;Router Wi‑Fi 6;Síťové prvky;3;1928;vyrizena
+5163;2025-11-08;Lukáš Novák;Klávesnice USB;Periferie;1;715;vyrizena
+5544;2025-11-08;Petr Urban;"Monitor 24""";Monitory;1;3491;vyrizena
+5571;2025-11-08;Monika Sedláčková;Sluchátka s mikrofonem;Audio;1;777;vyrizena
+5641;2025-11-08;Filip Urban;Dokovací stanice;Příslušenství;3;2576;stornovana
+5780;2025-11-08;Ondřej Hájek;USB disk 128 GB;Úložiště;2;315;vyrizena
+5912;2025-11-08;Lenka Dvořáková;"Monitor 27""";Monitory;1;5143;vyrizena
+5916;2025-11-08;Tomáš Novák;Kancelářská židle;Kancelář;4;3517;vyrizena
+5976;2025-11-08;Lenka Urbanová;Tiskárna laserová;Tiskárny;2;4139;vyrizena
+6102;2025-11-08;Roman Hájek;"Monitor 24""";Monitory;1;3264;vyrizena
+6222;2025-11-08;Daniel Beneš;Myš bezdrátová;Periferie;4;433;vyrizena
+5012;2025-11-09;Tereza Sedláčková;"Monitor 27""";Monitory;1;5056;stornovana
+5082;2025-11-09;Jakub Urban;"Notebook 15""";Notebooky;3;16601;vyrizena
+5086;2025-11-09;Tereza Růžičková;"Monitor 24""";Monitory;1;3541;vyrizena
+5226;2025-11-09;Klára Jelínková;USB disk 128 GB;Úložiště;1;329;vyrizena
+5464;2025-11-09;Adéla Urbanová;Reproduktory 2.0;Audio;1;1060;vyrizena
+5646;2025-11-09;Daniel Urban;Klávesnice USB;Periferie;1;654;vyrizena
+5777;2025-11-09;Alena Procházková;LED stolní lampa;Kancelář;1;839;stornovana
+5784;2025-11-09;Adam Hájek;LED stolní lampa;Kancelář;1;831;vyrizena
+6009;2025-11-09;Jakub Novák;Tonner černý;Tiskárny;1;1615;vyrizena
+6159;2025-11-09;Karolína Svobodová;Externí SSD 1 TB;Úložiště;1;2291;vyrizena
+6199;2025-11-09;Josef Svoboda;Router Wi‑Fi 6;Síťové prvky;5;1742;vyrizena
+5056;2025-11-10;Josef Jelínek;"Monitor 24""";Monitory;1;2996;vyrizena
+5060;2025-11-10;Josef Pospíšil;Tiskárna laserová;Tiskárny;2;4207;vyrizena
+5137;2025-11-10;Josef Veselý;Externí SSD 1 TB;Úložiště;1;2443;stornovana
+5174;2025-11-10;Monika Králová;Myš bezdrátová;Periferie;1;426;vyrizena
+5413;2025-11-10;Adam Sedláček;Klávesnice USB;Periferie;1;696;vyrizena
+5838;2025-11-10;Josef Beneš;Reproduktory 2.0;Audio;2;904;vyrizena
+6015;2025-11-10;Eliška Králová;"Monitor 24""";Monitory;2;3229;vyrizena
+5019;2025-11-11;Vojtěch Veselý;Kancelářská židle;Kancelář;1;3241;vyrizena
+5135;2025-11-11;Lenka Fialová;Tonner černý;Tiskárny;1;1631;vyrizena
+5309;2025-11-11;Lukáš Procházka;LED stolní lampa;Kancelář;1;793;vyrizena
+5437;2025-11-11;David Beneš;Tiskárna laserová;Tiskárny;1;4394;vyrizena
+5470;2025-11-11;Jan Černý;Dokovací stanice;Příslušenství;4;2271;vyrizena
+5776;2025-11-11;Alena Procházková;Externí SSD 1 TB;Úložiště;1;2271;vyrizena
+5963;2025-11-11;Tomáš Novák;USB disk 128 GB;Úložiště;1;336;vyrizena
+5970;2025-11-11;Karolína Benešová;"Notebook 15""";Notebooky;1;17014;vyrizena
+6165;2025-11-11;Jana Hájková;LED stolní lampa;Kancelář;2;777;vyrizena
+5048;2025-11-12;Filip Navrátil;"Monitor 24""";Monitory;2;3104;vyrizena
+5097;2025-11-12;Filip Sedláček;Tiskárna laserová;Tiskárny;1;3865;vyrizena
+5598;2025-11-12;Roman Král;Router Wi‑Fi 6;Síťové prvky;5;2026;vyrizena
+5622;2025-11-12;Monika Růžičková;Externí SSD 1 TB;Úložiště;1;2442;vyrizena
+5869;2025-11-12;Petr Dvořák;Router Wi‑Fi 6;Síťové prvky;1;1882;vyrizena
+5877;2025-11-12;Kateřina Veselá;"Notebook 15""";Notebooky;1;17576;stornovana
+5966;2025-11-12;Karolína Hájková;LED stolní lampa;Kancelář;1;851;vyrizena
+6200;2025-11-12;Michal Němec;Stojan na notebook;Kancelář;1;718;vyrizena
+5010;2025-11-13;Lenka Procházková;Stojan na notebook;Kancelář;2;655;vyrizena
+5064;2025-11-13;Lenka Svobodová;Reproduktory 2.0;Audio;1;971;vyrizena
+5222;2025-11-13;Jakub Černý;Klávesnice USB;Periferie;1;682;vyrizena
+5253;2025-11-13;Adam Růžička;Router Wi‑Fi 6;Síťové prvky;3;1802;vyrizena
+5286;2025-11-13;Tereza Hájková;Tonner černý;Tiskárny;3;1570;vyrizena
+5369;2025-11-13;Roman Dvořák;Klávesnice USB;Periferie;1;635;vyrizena
+5481;2025-11-13;Veronika Urbanová;Webkamera HD;Příslušenství;1;833;vyrizena
+5509;2025-11-13;Adéla Fialová;Myš bezdrátová;Periferie;1;474;vyrizena
+6122;2025-11-13;Adéla Králová;Klávesnice USB;Periferie;3;712;vyrizena
+5275;2025-11-14;Monika Horáková;Externí SSD 1 TB;Úložiště;3;2275;vyrizena
+5543;2025-11-14;Jiří Svoboda;Klávesnice USB;Periferie;1;700;vyrizena
+5769;2025-11-14;Monika Králová;Sluchátka s mikrofonem;Audio;2;832;vyrizena
+6237;2025-11-14;Daniel Němec;"Notebook 15""";Notebooky;3;17633;vyrizena
+5042;2025-11-15;Filip Pokorný;Klávesnice USB;Periferie;1;695;stornovana
+5482;2025-11-15;Adam Horák;Dokovací stanice;Příslušenství;4;2309;vyrizena
+5785;2025-11-15;David Jelínek;Tonner černý;Tiskárny;2;1661;stornovana
+5861;2025-11-15;Veronika Svobodová;Kancelářská židle;Kancelář;3;3670;vyrizena
+5951;2025-11-15;Monika Horáková;Externí SSD 1 TB;Úložiště;1;2436;vyrizena
+6145;2025-11-15;Monika Svobodová;Sluchátka s mikrofonem;Audio;1;734;stornovana
+6182;2025-11-15;Adéla Fialová;LED stolní lampa;Kancelář;1;742;vyrizena
+5516;2025-11-16;Ondřej Sedláček;Klávesnice USB;Periferie;1;698;vyrizena
+5617;2025-11-16;Lukáš Svoboda;Kancelářská židle;Kancelář;1;3545;vyrizena
+5742;2025-11-16;Monika Růžičková;Myš bezdrátová;Periferie;1;452;vyrizena
+5757;2025-11-16;Iveta Hájková;Dokovací stanice;Příslušenství;2;2421;vyrizena
+5792;2025-11-16;Michal Pokorný;Switch 8 portů;Síťové prvky;1;958;vyrizena
+6089;2025-11-16;Michaela Jelínková;Stojan na notebook;Kancelář;2;673;vyrizena
+6103;2025-11-16;Jiří Král;Switch 8 portů;Síťové prvky;1;921;vyrizena
+6119;2025-11-16;Jan Černý;"Monitor 24""";Monitory;4;3483;vyrizena
+6127;2025-11-16;Barbora Navrátilová;"Notebook 15""";Notebooky;1;15895;vyrizena
+6129;2025-11-16;Marek Svoboda;Switch 8 portů;Síťové prvky;1;1031;vyrizena
+5175;2025-11-17;Filip Urban;"Notebook 15""";Notebooky;1;16269;vyrizena
+5246;2025-11-17;Michal Urban;Switch 8 portů;Síťové prvky;1;1000;vyrizena
+5310;2025-11-17;Lukáš Procházka;Dokovací stanice;Příslušenství;2;2279;vyrizena
+5991;2025-11-17;Roman Hájek;Stojan na notebook;Kancelář;1;629;vyrizena
+5108;2025-11-18;Roman Jelínek;Dokovací stanice;Příslušenství;1;2649;vyrizena
+5132;2025-11-18;Josef Němec;Reproduktory 2.0;Audio;2;961;vyrizena
+5536;2025-11-18;Jan Hájek;Stojan na notebook;Kancelář;1;707;vyrizena
+5887;2025-11-18;Roman Král;Klávesnice USB;Periferie;1;715;vyrizena
+5959;2025-11-18;Matěj Pospíšil;Reproduktory 2.0;Audio;1;1010;vyrizena
+5972;2025-11-18;Jan Pokorný;Externí SSD 1 TB;Úložiště;1;2440;vyrizena
+6048;2025-11-18;Alena Svobodová;Webkamera HD;Příslušenství;1;936;vyrizena
+5044;2025-11-19;Lenka Kučerová;Tiskárna laserová;Tiskárny;1;4582;vyrizena
+5083;2025-11-19;Petra Benešová;"Monitor 24""";Monitory;1;3341;vyrizena
+5088;2025-11-19;Karolína Kučerová;Myš bezdrátová;Periferie;1;472;vyrizena
+5205;2025-11-19;Alena Jelínková;Reproduktory 2.0;Audio;1;1028;vyrizena
+5828;2025-11-19;Klára Kučerová;Dokovací stanice;Příslušenství;1;2676;vyrizena
+5924;2025-11-19;Kateřina Navrátilová;Tiskárna laserová;Tiskárny;1;4207;vyrizena
+5988;2025-11-19;Radek Svoboda;Reproduktory 2.0;Audio;2;970;vyrizena
+6120;2025-11-19;Lucie Pospíšilová;Myš bezdrátová;Periferie;5;488;vyrizena
+5025;2025-11-20;Tomáš Pospíšil;Tonner černý;Tiskárny;1;1688;vyrizena
+5148;2025-11-20;Alena Fialová;Sluchátka s mikrofonem;Audio;1;839;vyrizena
+5311;2025-11-20;Veronika Veselá;Dokovací stanice;Příslušenství;1;2374;vyrizena
+5337;2025-11-20;Jan Dvořák;Klávesnice USB;Periferie;1;713;vyrizena
+5451;2025-11-20;Radek Horák;Tiskárna laserová;Tiskárny;1;3942;stornovana
+5474;2025-11-20;Eliška Veselá;LED stolní lampa;Kancelář;1;780;vyrizena
+5661;2025-11-20;Jan Navrátil;Dokovací stanice;Příslušenství;3;2589;stornovana
+6031;2025-11-20;Lenka Horáková;Dokovací stanice;Příslušenství;1;2283;vyrizena
+6077;2025-11-20;Josef Sedláček;Myš bezdrátová;Periferie;1;430;vyrizena
+6100;2025-11-20;Petr Beneš;LED stolní lampa;Kancelář;1;761;vyrizena
+6209;2025-11-20;Klára Navrátilová;LED stolní lampa;Kancelář;1;765;vyrizena
+5154;2025-11-21;Filip Pokorný;"Notebook 15""";Notebooky;1;16164;stornovana
+5232;2025-11-21;Adéla Fialová;Sluchátka s mikrofonem;Audio;3;807;vyrizena
+5749;2025-11-21;Radek Beneš;Reproduktory 2.0;Audio;2;1028;vyrizena
+5788;2025-11-21;Barbora Růžičková;Klávesnice USB;Periferie;1;722;vyrizena
+5855;2025-11-21;Petr Kučera;Sluchátka s mikrofonem;Audio;1;817;vyrizena
+5862;2025-11-21;Jakub Veselý;Webkamera HD;Příslušenství;1;819;vyrizena
+6136;2025-11-21;Eliška Veselá;LED stolní lampa;Kancelář;1;802;vyrizena
+5426;2025-11-22;Marek Pokorný;"Monitor 27""";Monitory;1;4601;vyrizena
+5450;2025-11-22;Martin Kučera;Stojan na notebook;Kancelář;1;653;vyrizena
+5552;2025-11-22;Veronika Hájková;Tiskárna laserová;Tiskárny;1;4177;vyrizena
+6062;2025-11-22;Jakub Černý;Sluchátka s mikrofonem;Audio;1;803;vyrizena
+6150;2025-11-22;Daniel Beneš;Myš bezdrátová;Periferie;1;496;vyrizena
+6221;2025-11-22;Ondřej Pospíšil;"Monitor 24""";Monitory;1;3059;vyrizena
+5259;2025-11-23;Michal Kučera;"Notebook 15""";Notebooky;2;18264;vyrizena
+5575;2025-11-23;Michal Kučera;"Monitor 24""";Monitory;2;2988;vyrizena
+5997;2025-11-23;Veronika Nováková;USB disk 128 GB;Úložiště;1;365;vyrizena
+6112;2025-11-23;Ondřej Kučera;Tonner černý;Tiskárny;2;1560;vyrizena
+5046;2025-11-24;Karolína Němcová;Myš bezdrátová;Periferie;1;444;stornovana
+5106;2025-11-24;Lenka Svobodová;"Monitor 27""";Monitory;2;5151;vyrizena
+5165;2025-11-24;Adam Růžička;Tonner černý;Tiskárny;3;1590;vyrizena
+5274;2025-11-24;Tereza Dvořáková;Klávesnice USB;Periferie;1;650;vyrizena
+5688;2025-11-24;Monika Horáková;"Notebook 15""";Notebooky;1;16014;vyrizena
+5761;2025-11-24;Vojtěch Černý;Tonner černý;Tiskárny;1;1693;vyrizena
+6181;2025-11-24;Lenka Svobodová;Tiskárna laserová;Tiskárny;4;4184;vyrizena
+5069;2025-11-25;Iveta Pokorná;Switch 8 portů;Síťové prvky;2;1013;vyrizena
+5096;2025-11-25;David Horák;USB disk 128 GB;Úložiště;1;360;vyrizena
+5116;2025-11-25;Karolína Benešová;Myš bezdrátová;Periferie;5;425;vyrizena
+5415;2025-11-25;Radek Jelínek;Dokovací stanice;Příslušenství;2;2483;vyrizena
+6043;2025-11-25;Vojtěch Veselý;Klávesnice USB;Periferie;1;686;vyrizena
+6073;2025-11-25;Anna Nováková;Klávesnice USB;Periferie;5;680;vyrizena
+6168;2025-11-25;Josef Svoboda;Stojan na notebook;Kancelář;4;654;vyrizena
+5142;2025-11-26;Filip Svoboda;"Notebook 15""";Notebooky;2;17891;vyrizena
+5241;2025-11-26;Marek Pokorný;Reproduktory 2.0;Audio;1;909;vyrizena
+5283;2025-11-26;Adam Fiala;Dokovací stanice;Příslušenství;1;2280;vyrizena
+5393;2025-11-26;Jakub Navrátil;USB disk 128 GB;Úložiště;1;376;vyrizena
+5473;2025-11-26;Jana Kučerová;Reproduktory 2.0;Audio;1;919;vyrizena
+5569;2025-11-26;Jakub Růžička;Router Wi‑Fi 6;Síťové prvky;2;2039;vyrizena
+5856;2025-11-26;Roman Pospíšil;Switch 8 portů;Síťové prvky;1;987;vyrizena
+5978;2025-11-26;Monika Růžičková;Webkamera HD;Příslušenství;3;881;vyrizena
+6032;2025-11-26;Filip Procházka;Externí SSD 1 TB;Úložiště;1;2592;vyrizena
+6101;2025-11-26;Barbora Pospíšilová;"Monitor 24""";Monitory;1;3433;vyrizena
+5289;2025-11-27;Daniel Němec;Kancelářská židle;Kancelář;1;3323;vyrizena
+5370;2025-11-27;Roman Pospíšil;Switch 8 portů;Síťové prvky;2;1046;vyrizena
+5430;2025-11-27;Vojtěch Veselý;Dokovací stanice;Příslušenství;1;2500;vyrizena
+5680;2025-11-27;Adam Novák;Switch 8 portů;Síťové prvky;3;916;vyrizena
+5925;2025-11-27;Barbora Růžičková;Webkamera HD;Příslušenství;1;844;vyrizena
+5932;2025-11-27;Eliška Králová;"Monitor 24""";Monitory;1;3140;vyrizena
+6226;2025-11-27;Petra Jelínková;Reproduktory 2.0;Audio;1;990;vyrizena
+5047;2025-11-28;Filip Urban;Tonner černý;Tiskárny;5;1619;vyrizena
+5550;2025-11-28;Adéla Urbanová;Klávesnice USB;Periferie;2;671;stornovana
+5700;2025-11-28;Jiří Němec;Klávesnice USB;Periferie;1;673;vyrizena
+6114;2025-11-28;Lukáš Novák;Switch 8 portů;Síťové prvky;1;1031;vyrizena
+5168;2025-11-29;Ondřej Černý;Myš bezdrátová;Periferie;1;466;vyrizena
+5375;2025-11-29;Alena Fialová;Klávesnice USB;Periferie;2;655;vyrizena
+5420;2025-11-29;Josef Svoboda;Stojan na notebook;Kancelář;3;627;vyrizena
+5491;2025-11-29;Filip Pokorný;Tiskárna laserová;Tiskárny;5;3947;vyrizena
+5501;2025-11-29;Petr Horák;Router Wi‑Fi 6;Síťové prvky;1;1746;vyrizena
+5585;2025-11-29;Jan Pospíšil;Stojan na notebook;Kancelář;2;679;vyrizena
+5783;2025-11-29;Jakub Pokorný;Switch 8 portů;Síťové prvky;1;975;vyrizena
+5874;2025-11-29;Tereza Svobodová;Sluchátka s mikrofonem;Audio;1;838;stornovana
+6047;2025-11-29;Lucie Hájková;Myš bezdrátová;Periferie;1;433;vyrizena
+6111;2025-11-29;Lukáš Urban;"Monitor 24""";Monitory;1;3215;vyrizena
+5576;2025-11-30;Tomáš Novák;Kancelářská židle;Kancelář;1;3716;vyrizena
+5996;2025-11-30;Jan Dvořák;Dokovací stanice;Příslušenství;4;2593;vyrizena
+6130;2025-11-30;Filip Růžička;Kancelářská židle;Kancelář;1;3318;vyrizena
+5030;2025-12-01;Jana Králová;USB disk 128 GB;Úložiště;1;343;vyrizena
+5133;2025-12-01;Michal Sedláček;Webkamera HD;Příslušenství;1;811;vyrizena
+5140;2025-12-01;Adéla Svobodová;Tiskárna laserová;Tiskárny;1;4609;vyrizena
+5490;2025-12-01;Anna Nováková;Dokovací stanice;Příslušenství;1;2610;vyrizena
+5681;2025-12-01;David Dvořák;Tiskárna laserová;Tiskárny;1;4453;vyrizena
+5879;2025-12-01;Alena Procházková;LED stolní lampa;Kancelář;2;796;vyrizena
+5984;2025-12-01;Adam Horák;Kancelářská židle;Kancelář;1;3556;vyrizena
+6138;2025-12-01;Karolína Němcová;"Notebook 15""";Notebooky;1;17973;vyrizena
+6164;2025-12-01;Marek Král;Externí SSD 1 TB;Úložiště;2;2670;vyrizena
+5188;2025-12-02;Adam Hájek;Kancelářská židle;Kancelář;1;3295;vyrizena
+5564;2025-12-02;Petr Kučera;"Monitor 24""";Monitory;1;3391;vyrizena
+5882;2025-12-02;Roman Dvořák;"Notebook 15""";Notebooky;1;16805;vyrizena
+6028;2025-12-02;Roman Pospíšil;Dokovací stanice;Příslušenství;1;2524;vyrizena
+6038;2025-12-02;Michal Pokorný;Tonner černý;Tiskárny;2;1539;vyrizena
+6137;2025-12-02;Daniel Němec;Switch 8 portů;Síťové prvky;2;1069;vyrizena
+5026;2025-12-03;Karel Hájek;Sluchátka s mikrofonem;Audio;1;732;vyrizena
+5124;2025-12-03;Ondřej Pospíšil;Router Wi‑Fi 6;Síťové prvky;2;1736;vyrizena
+5505;2025-12-03;Vojtěch Král;Tiskárna laserová;Tiskárny;1;4154;vyrizena
+5546;2025-12-03;Jiří Němec;"Monitor 24""";Monitory;1;3506;stornovana
+5553;2025-12-03;Jakub Novák;"Monitor 27""";Monitory;3;4998;vyrizena
+5799;2025-12-03;Eliška Kučerová;Webkamera HD;Příslušenství;1;815;vyrizena
+5910;2025-12-03;Monika Hájková;USB disk 128 GB;Úložiště;3;318;vyrizena
+5078;2025-12-04;Vojtěch Navrátil;Webkamera HD;Příslušenství;1;898;vyrizena
+5120;2025-12-04;Tereza Procházková;Webkamera HD;Příslušenství;4;948;vyrizena
+5125;2025-12-04;Jakub Jelínek;Myš bezdrátová;Periferie;1;448;vyrizena
+5214;2025-12-04;Eliška Sedláčková;Dokovací stanice;Příslušenství;1;2416;vyrizena
+5242;2025-12-04;Adam Urban;Tonner černý;Tiskárny;1;1481;vyrizena
+5864;2025-12-04;Tereza Růžičková;Tiskárna laserová;Tiskárny;3;4000;vyrizena
+5930;2025-12-04;Lucie Pospíšilová;"Notebook 15""";Notebooky;2;18274;vyrizena
+5931;2025-12-04;Veronika Urbanová;"Monitor 27""";Monitory;1;5043;vyrizena
+6106;2025-12-04;Martin Jelínek;"Monitor 27""";Monitory;5;5272;vyrizena
+6240;2025-12-04;Jakub Veselý;"Monitor 24""";Monitory;1;3148;vyrizena
+5210;2025-12-05;Ondřej Pospíšil;"Monitor 27""";Monitory;2;4488;vyrizena
+5254;2025-12-05;Daniel Procházka;Dokovací stanice;Příslušenství;1;2352;vyrizena
+5265;2025-12-05;Vojtěch Černý;Klávesnice USB;Periferie;1;671;vyrizena
+5610;2025-12-05;Petr Růžička;"Monitor 27""";Monitory;1;4737;vyrizena
+5748;2025-12-05;David Jelínek;LED stolní lampa;Kancelář;1;737;vyrizena
+5961;2025-12-05;Karel Fiala;Kancelářská židle;Kancelář;3;3449;vyrizena
+5999;2025-12-05;David Pokorný;Stojan na notebook;Kancelář;2;624;vyrizena
+6023;2025-12-05;Martin Jelínek;Myš bezdrátová;Periferie;1;420;vyrizena
+5029;2025-12-06;Adam Urban;Router Wi‑Fi 6;Síťové prvky;4;1968;vyrizena
+5063;2025-12-06;Tomáš Novák;Switch 8 portů;Síťové prvky;1;950;vyrizena
+5229;2025-12-06;Vojtěch Beneš;Router Wi‑Fi 6;Síťové prvky;1;1830;vyrizena
+5533;2025-12-06;Jiří Černý;Klávesnice USB;Periferie;2;697;vyrizena
+5534;2025-12-06;Iveta Pokorná;"Notebook 15""";Notebooky;2;16861;vyrizena
+5539;2025-12-06;Veronika Veselá;LED stolní lampa;Kancelář;1;758;vyrizena
+5730;2025-12-06;David Černý;Switch 8 portů;Síťové prvky;1;992;vyrizena
+5921;2025-12-06;Nikola Králová;Tiskárna laserová;Tiskárny;1;4576;vyrizena
+5934;2025-12-06;Marek Král;Dokovací stanice;Příslušenství;3;2607;stornovana
+6142;2025-12-06;Lucie Veselá;Klávesnice USB;Periferie;2;665;vyrizena
+6193;2025-12-06;Michaela Jelínková;LED stolní lampa;Kancelář;1;743;vyrizena
+6228;2025-12-06;Anna Veselá;Stojan na notebook;Kancelář;1;633;vyrizena
+5052;2025-12-07;Jana Horáková;Sluchátka s mikrofonem;Audio;2;794;vyrizena
+5104;2025-12-07;Filip Urban;Klávesnice USB;Periferie;1;674;vyrizena
+5258;2025-12-07;Simona Pokorná;USB disk 128 GB;Úložiště;1;332;vyrizena
+5475;2025-12-07;David Pokorný;"Notebook 15""";Notebooky;2;16955;vyrizena
+5494;2025-12-07;Nikola Procházková;Router Wi‑Fi 6;Síťové prvky;1;1836;vyrizena
+5673;2025-12-07;Iveta Růžičková;"Monitor 27""";Monitory;1;4847;vyrizena
+5872;2025-12-07;Petr Beneš;Klávesnice USB;Periferie;1;632;vyrizena
+5900;2025-12-07;Ondřej Sedláček;Webkamera HD;Příslušenství;2;907;vyrizena
+5929;2025-12-07;Iveta Navrátilová;Webkamera HD;Příslušenství;3;935;vyrizena
+6002;2025-12-07;Monika Procházková;LED stolní lampa;Kancelář;1;797;vyrizena
+6074;2025-12-07;Iveta Hájková;Stojan na notebook;Kancelář;1;727;vyrizena
+6155;2025-12-07;Lenka Kučerová;LED stolní lampa;Kancelář;1;769;vyrizena
+6224;2025-12-07;Tereza Hájková;Webkamera HD;Příslušenství;1;865;vyrizena
+5144;2025-12-08;David Pokorný;Tiskárna laserová;Tiskárny;2;4420;vyrizena
+5239;2025-12-08;Jana Růžičková;Dokovací stanice;Příslušenství;1;2507;vyrizena
+5532;2025-12-08;Michaela Fialová;Tonner černý;Tiskárny;2;1458;vyrizena
+5797;2025-12-08;Jana Králová;LED stolní lampa;Kancelář;1;835;vyrizena
+5859;2025-12-08;Filip Svoboda;Dokovací stanice;Příslušenství;1;2342;vyrizena
+6157;2025-12-08;David Procházka;LED stolní lampa;Kancelář;1;790;vyrizena
+5001;2025-12-09;Petr Beneš;"Monitor 27""";Monitory;5;5278;vyrizena
+5123;2025-12-09;Michal Kučera;Reproduktory 2.0;Audio;1;914;vyrizena
+5291;2025-12-09;Ondřej Král;Externí SSD 1 TB;Úložiště;1;2418;vyrizena
+5304;2025-12-09;Ondřej Sedláček;Myš bezdrátová;Periferie;2;439;vyrizena
+5535;2025-12-09;Josef Novák;Klávesnice USB;Periferie;4;678;vyrizena
+5679;2025-12-09;Eliška Urbanová;USB disk 128 GB;Úložiště;2;346;vyrizena
+6036;2025-12-09;Michal Horák;Klávesnice USB;Periferie;1;736;vyrizena
+6201;2025-12-09;Adam Navrátil;Dokovací stanice;Příslušenství;1;2284;vyrizena
+5261;2025-12-10;Michaela Pokorná;Myš bezdrátová;Periferie;1;479;vyrizena
+5279;2025-12-10;Petra Jelínková;Tonner černý;Tiskárny;2;1565;vyrizena
+5555;2025-12-10;Jiří Němec;Switch 8 portů;Síťové prvky;3;940;vyrizena
+5578;2025-12-10;Alena Procházková;Switch 8 portů;Síťové prvky;2;1058;vyrizena
+5913;2025-12-10;Veronika Sedláčková;Webkamera HD;Příslušenství;1;932;stornovana
+5952;2025-12-10;Klára Benešová;"Monitor 27""";Monitory;1;4635;vyrizena
+5983;2025-12-10;Daniel Beneš;Tiskárna laserová;Tiskárny;1;4216;vyrizena
+5021;2025-12-11;Eliška Králová;Switch 8 portů;Síťové prvky;1;973;vyrizena
+5074;2025-12-11;Radek Procházka;Klávesnice USB;Periferie;3;725;vyrizena
+5187;2025-12-11;David Jelínek;Stojan na notebook;Kancelář;3;646;vyrizena
+5209;2025-12-11;Lenka Urbanová;Tiskárna laserová;Tiskárny;2;3916;vyrizena
+5300;2025-12-11;Michaela Pokorná;Dokovací stanice;Příslušenství;3;2495;vyrizena
+5390;2025-12-11;Lukáš Kučera;Kancelářská židle;Kancelář;1;3406;vyrizena
+5512;2025-12-11;Filip Sedláček;Stojan na notebook;Kancelář;1;692;vyrizena
+5633;2025-12-11;Jan Veselý;Reproduktory 2.0;Audio;1;905;vyrizena
+5648;2025-12-11;Jakub Pokorný;Tonner černý;Tiskárny;1;1655;vyrizena
+5653;2025-12-11;Petr Horák;"Monitor 24""";Monitory;3;3039;vyrizena
+5663;2025-12-11;David Černý;Dokovací stanice;Příslušenství;1;2327;vyrizena
+5778;2025-12-11;Jan Svoboda;Tonner černý;Tiskárny;1;1582;vyrizena
+6195;2025-12-11;Kateřina Nováková;Tonner černý;Tiskárny;1;1516;vyrizena
+5043;2025-12-12;Monika Růžičková;Dokovací stanice;Příslušenství;2;2562;vyrizena
+5262;2025-12-12;Jiří Pokorný;Dokovací stanice;Příslušenství;2;2514;vyrizena
+5410;2025-12-12;Vojtěch Navrátil;Switch 8 portů;Síťové prvky;2;962;vyrizena
+5592;2025-12-12;Eliška Horáková;Dokovací stanice;Příslušenství;5;2295;vyrizena
+5620;2025-12-12;Adéla Urbanová;Myš bezdrátová;Periferie;1;441;vyrizena
+5671;2025-12-12;Adéla Pospíšilová;"Monitor 24""";Monitory;3;3003;vyrizena
+5826;2025-12-12;Klára Jelínková;"Monitor 27""";Monitory;1;5259;vyrizena
+5899;2025-12-12;Tereza Procházková;Dokovací stanice;Příslušenství;1;2402;vyrizena
+6024;2025-12-12;Iveta Navrátilová;Externí SSD 1 TB;Úložiště;5;2351;vyrizena
+5004;2025-12-13;Veronika Hájková;Webkamera HD;Příslušenství;1;816;vyrizena
+5139;2025-12-13;Ondřej Jelínek;Switch 8 portů;Síťové prvky;1;914;vyrizena
+5164;2025-12-13;Lukáš Urban;Router Wi‑Fi 6;Síťové prvky;1;1742;vyrizena
+5683;2025-12-13;Marek Černý;Webkamera HD;Příslušenství;2;819;vyrizena
+5977;2025-12-13;Klára Nováková;Reproduktory 2.0;Audio;1;1040;vyrizena
+5993;2025-12-13;Karolína Hájková;Switch 8 portů;Síťové prvky;1;989;vyrizena
+6234;2025-12-13;Filip Navrátil;Dokovací stanice;Příslušenství;1;2601;vyrizena
+5040;2025-12-14;Ondřej Pokorný;Tonner černý;Tiskárny;1;1470;vyrizena
+5326;2025-12-14;Jiří Svoboda;Klávesnice USB;Periferie;2;637;vyrizena
+5488;2025-12-14;Tereza Procházková;Tonner černý;Tiskárny;1;1462;vyrizena
+5701;2025-12-14;Vojtěch Beneš;Switch 8 portů;Síťové prvky;2;1067;vyrizena
+5703;2025-12-14;Adam Pospíšil;"Monitor 24""";Monitory;2;3115;vyrizena
+5705;2025-12-14;Lukáš Černý;Switch 8 portů;Síťové prvky;3;970;vyrizena
+6007;2025-12-14;David Svoboda;"Monitor 27""";Monitory;3;4990;vyrizena
+5005;2025-12-15;Nikola Procházková;Sluchátka s mikrofonem;Audio;3;721;vyrizena
+5115;2025-12-15;Tereza Dvořáková;Kancelářská židle;Kancelář;2;3409;stornovana
+5204;2025-12-15;Michal Svoboda;"Monitor 24""";Monitory;4;3361;vyrizena
+5306;2025-12-15;Matěj Horák;Tiskárna laserová;Tiskárny;3;4419;vyrizena
+5479;2025-12-15;Petr Pokorný;Webkamera HD;Příslušenství;1;827;vyrizena
+5725;2025-12-15;Jana Kučerová;Webkamera HD;Příslušenství;1;839;vyrizena
+5779;2025-12-15;Marek Navrátil;LED stolní lampa;Kancelář;2;821;vyrizena
+5801;2025-12-15;Tomáš Procházka;Kancelářská židle;Kancelář;1;3264;vyrizena
+6040;2025-12-15;Barbora Svobodová;Reproduktory 2.0;Audio;2;1055;vyrizena
+6186;2025-12-15;Anna Nováková;Reproduktory 2.0;Audio;1;982;vyrizena
+5072;2025-12-16;Monika Hájková;"Monitor 24""";Monitory;5;3499;vyrizena
+5195;2025-12-16;Lukáš Urban;Dokovací stanice;Příslušenství;2;2400;vyrizena
+5804;2025-12-16;Michal Svoboda;Tiskárna laserová;Tiskárny;1;4127;vyrizena
+6238;2025-12-16;Lukáš Černý;Kancelářská židle;Kancelář;2;3381;vyrizena
+5013;2025-12-17;Petr Urban;Switch 8 portů;Síťové prvky;1;1037;vyrizena
+5107;2025-12-17;Adam Růžička;Klávesnice USB;Periferie;1;717;vyrizena
+5219;2025-12-17;David Němec;USB disk 128 GB;Úložiště;1;323;vyrizena
+5263;2025-12-17;Karel Pospíšil;USB disk 128 GB;Úložiště;1;335;vyrizena
+5280;2025-12-17;Kateřina Němcová;"Monitor 24""";Monitory;1;3325;vyrizena
+5675;2025-12-17;Adam Hájek;Switch 8 portů;Síťové prvky;2;1045;vyrizena
+5819;2025-12-17;Iveta Růžičková;Stojan na notebook;Kancelář;1;724;vyrizena
+5979;2025-12-17;Adéla Urbanová;Switch 8 portů;Síťové prvky;3;929;stornovana
+5339;2025-12-18;Lukáš Procházka;Router Wi‑Fi 6;Síťové prvky;1;1905;vyrizena
+5478;2025-12-18;Tomáš Novák;"Notebook 15""";Notebooky;1;16101;vyrizena
+5897;2025-12-18;Michaela Němcová;Myš bezdrátová;Periferie;5;495;vyrizena
+6037;2025-12-18;Lucie Svobodová;Switch 8 portů;Síťové prvky;1;1050;vyrizena
+5218;2025-12-19;Petr Růžička;Externí SSD 1 TB;Úložiště;1;2480;vyrizena
+5454;2025-12-19;Klára Pokorná;Myš bezdrátová;Periferie;2;458;vyrizena
+5702;2025-12-19;Jan Pospíšil;Tiskárna laserová;Tiskárny;2;4056;vyrizena
+5767;2025-12-19;Karel Dvořák;Tonner černý;Tiskárny;1;1505;vyrizena
+5810;2025-12-19;Petra Veselá;Stojan na notebook;Kancelář;5;695;vyrizena
+5011;2025-12-20;Adam Růžička;"Notebook 15""";Notebooky;1;16541;stornovana
+5320;2025-12-20;Filip Urban;"Monitor 24""";Monitory;1;3151;vyrizena
+5480;2025-12-20;Adam Sedláček;Myš bezdrátová;Periferie;1;457;vyrizena
+5631;2025-12-20;Petr Dvořák;USB disk 128 GB;Úložiště;2;360;vyrizena
+5695;2025-12-20;Ondřej Hájek;Stojan na notebook;Kancelář;3;688;stornovana
+5895;2025-12-20;Matěj Fiala;Sluchátka s mikrofonem;Audio;3;822;vyrizena
+6083;2025-12-20;Jan Němec;Tiskárna laserová;Tiskárny;1;4437;vyrizena
+6247;2025-12-20;David Procházka;Sluchátka s mikrofonem;Audio;1;824;vyrizena
+5178;2025-12-21;Jan Navrátil;Myš bezdrátová;Periferie;1;444;vyrizena
+5227;2025-12-21;Marek Veselý;Kancelářská židle;Kancelář;1;3709;stornovana
+5484;2025-12-21;Iveta Horáková;Router Wi‑Fi 6;Síťové prvky;1;1886;vyrizena
+5720;2025-12-21;Josef Novák;"Monitor 27""";Monitory;1;4818;vyrizena
+5731;2025-12-21;Michaela Němcová;Dokovací stanice;Příslušenství;1;2570;vyrizena
+6068;2025-12-21;Kateřina Navrátilová;Dokovací stanice;Příslušenství;1;2256;vyrizena
+5217;2025-12-22;Veronika Nováková;Externí SSD 1 TB;Úložiště;1;2290;vyrizena
+5264;2025-12-22;Karel Beneš;Webkamera HD;Příslušenství;1;970;vyrizena
+5399;2025-12-22;Adam Urban;Tonner černý;Tiskárny;1;1674;vyrizena
+5514;2025-12-22;Jan Svoboda;Dokovací stanice;Příslušenství;2;2461;vyrizena
+5521;2025-12-22;Jakub Navrátil;Kancelářská židle;Kancelář;4;3711;vyrizena
+5719;2025-12-22;Adéla Fialová;"Notebook 15""";Notebooky;2;16481;vyrizena
+5944;2025-12-22;Lenka Svobodová;"Notebook 15""";Notebooky;1;15656;vyrizena
+5973;2025-12-22;Marek Pokorný;Dokovací stanice;Příslušenství;1;2475;vyrizena
+6250;2025-12-22;Eliška Navrátilová;Tiskárna laserová;Tiskárny;1;3913;vyrizena
+5081;2025-12-23;Michal Urban;Klávesnice USB;Periferie;2;702;vyrizena
+5266;2025-12-23;Jan Dvořák;Webkamera HD;Příslušenství;3;846;vyrizena
+5349;2025-12-23;Radek Svoboda;Tonner černý;Tiskárny;1;1576;vyrizena
+5477;2025-12-23;Karel Fiala;Tiskárna laserová;Tiskárny;1;4149;stornovana
+5581;2025-12-23;David Jelínek;"Monitor 24""";Monitory;4;3171;vyrizena
+5623;2025-12-23;Tomáš Němec;Switch 8 portů;Síťové prvky;1;1060;vyrizena
+5717;2025-12-23;Filip Svoboda;"Monitor 27""";Monitory;5;5190;vyrizena
+5411;2025-12-24;Tomáš Procházka;Sluchátka s mikrofonem;Audio;2;739;vyrizena
+5442;2025-12-24;Anna Růžičková;Sluchátka s mikrofonem;Audio;1;834;vyrizena
+5624;2025-12-24;Iveta Hájková;USB disk 128 GB;Úložiště;2;375;vyrizena
+5691;2025-12-24;Veronika Urbanová;Webkamera HD;Příslušenství;3;932;vyrizena
+5722;2025-12-24;Anna Benešová;Tiskárna laserová;Tiskárny;2;4328;vyrizena
+5901;2025-12-24;Radek Horák;"Notebook 15""";Notebooky;1;17923;vyrizena
+5962;2025-12-24;Monika Hájková;"Monitor 27""";Monitory;1;4946;vyrizena
+5196;2025-12-25;Barbora Fialová;USB disk 128 GB;Úložiště;1;317;vyrizena
+5439;2025-12-25;Lenka Kučerová;Externí SSD 1 TB;Úložiště;2;2342;vyrizena
+5747;2025-12-25;Petr Pokorný;Tonner černý;Tiskárny;1;1547;vyrizena
+5880;2025-12-25;Jiří Němec;Stojan na notebook;Kancelář;1;725;vyrizena
+5957;2025-12-25;Monika Hájková;"Notebook 15""";Notebooky;1;16549;vyrizena
+6045;2025-12-25;Kristýna Fialová;Dokovací stanice;Příslušenství;1;2626;vyrizena
+5131;2025-12-26;Karel Beneš;Stojan na notebook;Kancelář;1;719;vyrizena
+5192;2025-12-26;Iveta Urbanová;Webkamera HD;Příslušenství;5;968;vyrizena
+5240;2025-12-26;Marek Dvořák;Kancelářská židle;Kancelář;5;3663;vyrizena
+5272;2025-12-26;David Svoboda;Klávesnice USB;Periferie;1;745;vyrizena
+5401;2025-12-26;Klára Pokorná;Stojan na notebook;Kancelář;1;730;vyrizena
+5441;2025-12-26;David Urban;"Monitor 24""";Monitory;2;3272;vyrizena
+5698;2025-12-26;Tomáš Pospíšil;Externí SSD 1 TB;Úložiště;3;2536;vyrizena
+5806;2025-12-26;Karolína Kučerová;Sluchátka s mikrofonem;Audio;1;799;vyrizena
+5814;2025-12-26;Matěj Němec;"Monitor 24""";Monitory;1;2979;vyrizena
+5039;2025-12-27;Michaela Hájková;Switch 8 portů;Síťové prvky;4;1051;vyrizena
+5057;2025-12-27;Jana Růžičková;Switch 8 portů;Síťové prvky;2;903;vyrizena
+5466;2025-12-27;Lenka Nováková;Stojan na notebook;Kancelář;2;648;vyrizena
+5600;2025-12-27;David Dvořák;LED stolní lampa;Kancelář;1;752;vyrizena
+5601;2025-12-27;Josef Růžička;"Monitor 24""";Monitory;1;3148;vyrizena
+5726;2025-12-27;Lucie Růžičková;LED stolní lampa;Kancelář;1;749;vyrizena
+5727;2025-12-27;Ondřej Pospíšil;Dokovací stanice;Příslušenství;1;2433;vyrizena
+6041;2025-12-27;Marek Dvořák;"Notebook 15""";Notebooky;1;17090;vyrizena
+6191;2025-12-27;Eliška Veselá;Webkamera HD;Příslušenství;2;910;vyrizena
+6230;2025-12-27;Jan Němec;Tonner černý;Tiskárny;3;1537;vyrizena
+5017;2025-12-28;Filip Růžička;"Monitor 24""";Monitory;5;2970;vyrizena
+5128;2025-12-28;Lucie Sedláčková;LED stolní lampa;Kancelář;1;721;vyrizena
+5138;2025-12-28;Jiří Navrátil;Webkamera HD;Příslušenství;1;865;vyrizena
+5184;2025-12-28;Lenka Dvořáková;Router Wi‑Fi 6;Síťové prvky;1;1845;vyrizena
+5407;2025-12-28;Lukáš Navrátil;USB disk 128 GB;Úložiště;1;365;vyrizena
+6113;2025-12-28;Roman Kučera;LED stolní lampa;Kancelář;1;742;vyrizena
+6116;2025-12-28;Michal Sedláček;Webkamera HD;Příslušenství;1;966;vyrizena
+5062;2025-12-29;Martin Kučera;USB disk 128 GB;Úložiště;1;376;vyrizena
+5199;2025-12-29;Kateřina Fialová;USB disk 128 GB;Úložiště;3;374;vyrizena
+5813;2025-12-29;Michal Jelínek;Externí SSD 1 TB;Úložiště;3;2641;vyrizena
+5907;2025-12-29;Karolína Pospíšilová;Webkamera HD;Příslušenství;2;837;vyrizena
+5985;2025-12-29;Eliška Kučerová;Dokovací stanice;Příslušenství;1;2612;vyrizena
+6063;2025-12-29;Jan Svoboda;Reproduktory 2.0;Audio;1;986;vyrizena
+5068;2025-12-30;Matěj Kučera;"Monitor 27""";Monitory;1;4483;vyrizena
+5103;2025-12-30;Eliška Horáková;Myš bezdrátová;Periferie;4;433;vyrizena
+5299;2025-12-30;Jakub Novák;Tiskárna laserová;Tiskárny;1;4210;vyrizena
+5305;2025-12-30;Tereza Dvořáková;Switch 8 portů;Síťové prvky;1;974;vyrizena
+5376;2025-12-30;Adam Němec;Myš bezdrátová;Periferie;1;438;stornovana
+5400;2025-12-30;Kristýna Procházková;USB disk 128 GB;Úložiště;1;348;vyrizena
+5566;2025-12-30;Kateřina Fialová;Tiskárna laserová;Tiskárny;1;4122;vyrizena
+5605;2025-12-30;Simona Pospíšilová;USB disk 128 GB;Úložiště;1;320;vyrizena
+5670;2025-12-30;Jan Hájek;LED stolní lampa;Kancelář;1;829;vyrizena
+5768;2025-12-30;Vojtěch Pospíšil;Reproduktory 2.0;Audio;1;982;vyrizena
+6075;2025-12-30;Anna Benešová;USB disk 128 GB;Úložiště;3;351;vyrizena
+6086;2025-12-30;Martin Kučera;Kancelářská židle;Kancelář;1;3770;vyrizena
+6208;2025-12-30;Ondřej Sedláček;"Notebook 15""";Notebooky;1;16469;vyrizena
+5181;2025-12-31;Adéla Růžičková;Webkamera HD;Příslušenství;1;833;vyrizena
+5329;2025-12-31;Veronika Sedláčková;Stojan na notebook;Kancelář;1;621;vyrizena
+5368;2025-12-31;Jan Hájek;Tiskárna laserová;Tiskárny;1;4576;vyrizena
+5461;2025-12-31;Jiří Němec;"Monitor 27""";Monitory;3;5085;vyrizena
+5483;2025-12-31;Karel Hájek;USB disk 128 GB;Úložiště;1;365;vyrizena
+5917;2025-12-31;Tomáš Pospíšil;Myš bezdrátová;Periferie;1;416;vyrizena
+5846;2026-01-01;Lenka Horáková;Myš bezdrátová;Periferie;1;489;vyrizena
+5943;2026-01-01;Lukáš Veselý;LED stolní lampa;Kancelář;5;833;vyrizena
+5197;2026-01-02;Vojtěch Beneš;Kancelářská židle;Kancelář;1;3650;vyrizena
+5245;2026-01-02;Josef Svoboda;Myš bezdrátová;Periferie;1;438;vyrizena
+5332;2026-01-02;Petr Urban;Tiskárna laserová;Tiskárny;3;3998;vyrizena
+5595;2026-01-02;Marek Král;"Monitor 27""";Monitory;1;5276;vyrizena
+5664;2026-01-02;Adam Navrátil;Dokovací stanice;Příslušenství;1;2259;vyrizena
+5668;2026-01-02;Martin Jelínek;Webkamera HD;Příslušenství;1;835;vyrizena
+5709;2026-01-02;Lenka Procházková;Sluchátka s mikrofonem;Audio;1;748;vyrizena
+5796;2026-01-02;Matěj Urban;Klávesnice USB;Periferie;3;733;vyrizena
+5823;2026-01-02;Eliška Urbanová;Router Wi‑Fi 6;Síťové prvky;2;1702;vyrizena
+5863;2026-01-02;Tereza Hájková;USB disk 128 GB;Úložiště;1;341;vyrizena
+5890;2026-01-02;Lucie Veselá;Webkamera HD;Příslušenství;2;859;vyrizena
+5956;2026-01-02;Michal Pokorný;Klávesnice USB;Periferie;1;635;vyrizena
+6067;2026-01-02;Alena Jelínková;Webkamera HD;Příslušenství;4;926;vyrizena
+6202;2026-01-02;Kristýna Dvořáková;Sluchátka s mikrofonem;Audio;1;808;vyrizena
+6216;2026-01-02;Monika Veselá;"Notebook 15""";Notebooky;1;15639;vyrizena
+6218;2026-01-02;Lucie Navrátilová;USB disk 128 GB;Úložiště;1;327;vyrizena
+5180;2026-01-03;Monika Sedláčková;Kancelářská židle;Kancelář;1;3696;stornovana
+5282;2026-01-03;Iveta Pokorná;"Notebook 15""";Notebooky;1;17209;vyrizena
+5290;2026-01-03;Tereza Růžičková;Reproduktory 2.0;Audio;1;972;vyrizena
+5791;2026-01-03;Petr Urban;Router Wi‑Fi 6;Síťové prvky;1;1889;vyrizena
+5841;2026-01-03;Kateřina Fialová;Router Wi‑Fi 6;Síťové prvky;2;1741;vyrizena
+6084;2026-01-03;Alena Králová;Router Wi‑Fi 6;Síťové prvky;1;1855;vyrizena
+6115;2026-01-03;Jan Pokorný;Switch 8 portů;Síťové prvky;1;939;vyrizena
+6125;2026-01-03;David Dvořák;Myš bezdrátová;Periferie;1;423;vyrizena
+6161;2026-01-03;Martin Procházka;"Monitor 27""";Monitory;1;4435;vyrizena
+5119;2026-01-04;Monika Veselá;Myš bezdrátová;Periferie;1;436;stornovana
+5364;2026-01-04;Adéla Pospíšilová;LED stolní lampa;Kancelář;1;726;vyrizena
+5562;2026-01-04;Radek Němec;Tiskárna laserová;Tiskárny;2;4441;vyrizena
+5647;2026-01-04;Petr Urban;Dokovací stanice;Příslušenství;3;2410;vyrizena
+5787;2026-01-04;Veronika Urbanová;Dokovací stanice;Příslušenství;1;2475;vyrizena
+5809;2026-01-04;Michal Kučera;Stojan na notebook;Kancelář;3;722;vyrizena
+5739;2026-01-05;Jiří Němec;Tiskárna laserová;Tiskárny;3;4517;vyrizena
+5927;2026-01-05;Monika Svobodová;"Monitor 24""";Monitory;2;3388;vyrizena
+5167;2026-01-06;Kateřina Němcová;Tonner černý;Tiskárny;1;1626;vyrizena
+5237;2026-01-06;Matěj Pospíšil;Sluchátka s mikrofonem;Audio;1;784;vyrizena
+5251;2026-01-06;Ondřej Sedláček;"Monitor 24""";Monitory;2;3297;vyrizena
+5372;2026-01-06;Lucie Sedláčková;LED stolní lampa;Kancelář;2;738;vyrizena
+5650;2026-01-06;Nikola Růžičková;USB disk 128 GB;Úložiště;1;369;vyrizena
+6152;2026-01-06;Martin Pokorný;Dokovací stanice;Příslušenství;1;2555;vyrizena
+5145;2026-01-07;Lenka Procházková;Switch 8 portů;Síťové prvky;1;991;vyrizena
+5238;2026-01-07;Adéla Pospíšilová;Tiskárna laserová;Tiskárny;1;4447;vyrizena
+5255;2026-01-07;Ondřej Kučera;Dokovací stanice;Příslušenství;1;2535;vyrizena
+5278;2026-01-07;Matěj Kučera;Dokovací stanice;Příslušenství;1;2402;vyrizena
+5314;2026-01-07;Lukáš Urban;USB disk 128 GB;Úložiště;1;318;vyrizena
+5367;2026-01-07;Karel Hájek;Kancelářská židle;Kancelář;3;3711;vyrizena
+5455;2026-01-07;Josef Jelínek;Klávesnice USB;Periferie;1;682;vyrizena
+5456;2026-01-07;Monika Pokorná;"Monitor 27""";Monitory;2;5006;vyrizena
+5616;2026-01-07;Tomáš Pospíšil;Switch 8 portů;Síťové prvky;2;977;stornovana
+5706;2026-01-07;Radek Navrátil;Klávesnice USB;Periferie;3;741;vyrizena
+5737;2026-01-07;Kateřina Němcová;Stojan na notebook;Kancelář;1;678;vyrizena
+5755;2026-01-07;Adéla Kučerová;Myš bezdrátová;Periferie;2;459;vyrizena
+5786;2026-01-07;Martin Pokorný;Webkamera HD;Příslušenství;1;844;vyrizena
+5891;2026-01-07;Iveta Růžičková;Switch 8 portů;Síťové prvky;2;956;vyrizena
+5035;2026-01-08;Jan Černý;Router Wi‑Fi 6;Síťové prvky;3;1737;vyrizena
+5159;2026-01-08;Monika Procházková;"Monitor 27""";Monitory;1;4517;vyrizena
+5343;2026-01-08;Marek Pokorný;"Monitor 27""";Monitory;1;4475;vyrizena
+5472;2026-01-08;Adéla Svobodová;Klávesnice USB;Periferie;2;637;vyrizena
+5643;2026-01-08;Lukáš Veselý;Switch 8 portů;Síťové prvky;1;905;vyrizena
+5870;2026-01-08;Roman Jelínek;Tiskárna laserová;Tiskárny;3;4343;vyrizena
+5206;2026-01-09;Petr Růžička;Tiskárna laserová;Tiskárny;1;4582;vyrizena
+5500;2026-01-09;Adéla Němcová;"Notebook 15""";Notebooky;4;17821;vyrizena
+5941;2026-01-09;Karel Fiala;LED stolní lampa;Kancelář;1;818;vyrizena
+5967;2026-01-09;Kristýna Fialová;Reproduktory 2.0;Audio;1;1046;vyrizena
+5986;2026-01-09;Alena Jelínková;USB disk 128 GB;Úložiště;3;359;vyrizena
+6053;2026-01-09;Michaela Hájková;Webkamera HD;Příslušenství;2;959;vyrizena
+6097;2026-01-09;Lukáš Procházka;USB disk 128 GB;Úložiště;1;356;vyrizena
+6154;2026-01-09;Josef Němec;Myš bezdrátová;Periferie;5;480;vyrizena
+5203;2026-01-10;Michaela Hájková;USB disk 128 GB;Úložiště;2;317;vyrizena
+5525;2026-01-10;Daniel Beneš;Stojan na notebook;Kancelář;2;652;vyrizena
+5606;2026-01-10;Jakub Kučera;"Monitor 27""";Monitory;3;4780;vyrizena
+6044;2026-01-10;Eliška Pokorná;Externí SSD 1 TB;Úložiště;2;2303;vyrizena
+6056;2026-01-10;Michal Král;Router Wi‑Fi 6;Síťové prvky;1;1952;vyrizena
+6085;2026-01-10;Adéla Horáková;Sluchátka s mikrofonem;Audio;2;798;vyrizena
+6104;2026-01-10;Anna Svobodová;"Monitor 27""";Monitory;1;4783;vyrizena
+5166;2026-01-11;Anna Veselá;Router Wi‑Fi 6;Síťové prvky;2;1761;vyrizena
+5270;2026-01-11;Nikola Urbanová;Dokovací stanice;Příslušenství;2;2335;vyrizena
+5409;2026-01-11;Karolína Pokorná;Externí SSD 1 TB;Úložiště;3;2472;vyrizena
+5511;2026-01-11;Klára Benešová;Sluchátka s mikrofonem;Audio;1;792;vyrizena
+5662;2026-01-11;Petr Beneš;Myš bezdrátová;Periferie;1;460;vyrizena
+5969;2026-01-11;Filip Hájek;Stojan na notebook;Kancelář;2;729;vyrizena
+6176;2026-01-11;Radek Černý;LED stolní lampa;Kancelář;1;838;vyrizena
+6231;2026-01-11;Jakub Fiala;Dokovací stanice;Příslušenství;1;2396;stornovana
+5077;2026-01-12;Anna Benešová;Tonner černý;Tiskárny;1;1670;vyrizena
+5221;2026-01-12;Petra Němcová;Reproduktory 2.0;Audio;1;972;vyrizena
+5531;2026-01-12;Karolína Svobodová;Reproduktory 2.0;Audio;2;1016;vyrizena
+5599;2026-01-12;Lucie Nováková;Dokovací stanice;Příslušenství;3;2556;vyrizena
+5666;2026-01-12;David Černý;USB disk 128 GB;Úložiště;1;359;vyrizena
+5714;2026-01-12;Jiří Král;Switch 8 portů;Síťové prvky;1;985;vyrizena
+5765;2026-01-12;Jakub Růžička;"Monitor 27""";Monitory;1;4908;stornovana
+6118;2026-01-12;Eliška Králová;"Monitor 27""";Monitory;1;4906;vyrizena
+6121;2026-01-12;Iveta Navrátilová;Klávesnice USB;Periferie;1;718;vyrizena
+6220;2026-01-12;Vojtěch Beneš;Stojan na notebook;Kancelář;2;667;vyrizena
+5094;2026-01-13;Karel Pospíšil;Dokovací stanice;Příslušenství;1;2482;vyrizena
+5416;2026-01-13;Marek Pokorný;Externí SSD 1 TB;Úložiště;1;2382;vyrizena
+5541;2026-01-13;Adéla Procházková;Klávesnice USB;Periferie;2;741;vyrizena
+5589;2026-01-13;Adam Navrátil;Dokovací stanice;Příslušenství;1;2543;vyrizena
+5971;2026-01-13;Kristýna Růžičková;Kancelářská židle;Kancelář;1;3528;vyrizena
+6091;2026-01-13;Roman Dvořák;Dokovací stanice;Příslušenství;3;2589;stornovana
+6169;2026-01-13;Jiří Svoboda;Tonner černý;Tiskárny;2;1611;vyrizena
+6243;2026-01-13;Kateřina Fialová;Klávesnice USB;Periferie;3;751;vyrizena
+5009;2026-01-14;David Svoboda;LED stolní lampa;Kancelář;4;803;vyrizena
+5508;2026-01-14;Anna Benešová;Kancelářská židle;Kancelář;2;3598;vyrizena
+5604;2026-01-14;Adam Růžička;Switch 8 portů;Síťové prvky;1;1033;vyrizena
+5613;2026-01-14;Matěj Horák;Externí SSD 1 TB;Úložiště;1;2581;stornovana
+6027;2026-01-14;Martin Jelínek;Externí SSD 1 TB;Úložiště;2;2630;vyrizena
+6071;2026-01-14;Veronika Veselá;"Monitor 27""";Monitory;2;4433;vyrizena
+6094;2026-01-14;Adéla Sedláčková;"Notebook 15""";Notebooky;1;18076;vyrizena
+5591;2026-01-15;Simona Pokorná;Reproduktory 2.0;Audio;1;1028;vyrizena
+5638;2026-01-15;Jan Navrátil;Myš bezdrátová;Periferie;1;486;vyrizena
+5793;2026-01-15;Iveta Dvořáková;"Notebook 15""";Notebooky;1;16264;vyrizena
+6184;2026-01-15;Jakub Procházka;Switch 8 portů;Síťové prvky;1;973;vyrizena
+5061;2026-01-16;Marek Veselý;Reproduktory 2.0;Audio;4;981;vyrizena
+5130;2026-01-16;Tereza Hájková;Kancelářská židle;Kancelář;1;3624;vyrizena
+5313;2026-01-16;Ondřej Černý;Switch 8 portů;Síťové prvky;3;910;vyrizena
+5417;2026-01-16;Vojtěch Král;Stojan na notebook;Kancelář;2;738;vyrizena
+5422;2026-01-16;Tereza Hájková;"Notebook 15""";Notebooky;1;15865;vyrizena
+5654;2026-01-16;Jakub Urban;Myš bezdrátová;Periferie;5;460;vyrizena
+5710;2026-01-16;Adéla Svobodová;Dokovací stanice;Příslušenství;3;2283;stornovana
+5741;2026-01-16;Michal Jelínek;Router Wi‑Fi 6;Síťové prvky;3;1731;vyrizena
+5789;2026-01-16;Iveta Navrátilová;"Notebook 15""";Notebooky;1;17973;vyrizena
+5817;2026-01-16;Jiří Procházka;Switch 8 portů;Síťové prvky;1;1031;vyrizena
+5831;2026-01-16;Filip Sedláček;Webkamera HD;Příslušenství;2;940;vyrizena
+5851;2026-01-16;Jiří Sedláček;Tonner černý;Tiskárny;1;1437;vyrizena
+5908;2026-01-16;Jakub Veselý;Webkamera HD;Příslušenství;1;821;vyrizena
+5919;2026-01-16;Jana Němcová;Kancelářská židle;Kancelář;2;3316;vyrizena
+5935;2026-01-16;Michal Urban;Kancelářská židle;Kancelář;1;3806;vyrizena
+6019;2026-01-16;Karolína Pospíšilová;Tiskárna laserová;Tiskárny;2;3912;vyrizena
+6055;2026-01-16;Eliška Svobodová;Klávesnice USB;Periferie;1;659;vyrizena
+5028;2026-01-17;Alena Svobodová;Klávesnice USB;Periferie;5;699;stornovana
+5161;2026-01-17;Marek Navrátil;"Monitor 27""";Monitory;2;5191;vyrizena
+5357;2026-01-17;Matěj Pospíšil;Stojan na notebook;Kancelář;1;678;vyrizena
+5379;2026-01-17;Nikola Horáková;Dokovací stanice;Příslušenství;4;2410;vyrizena
+5493;2026-01-17;Iveta Urbanová;Sluchátka s mikrofonem;Audio;1;832;vyrizena
+5754;2026-01-17;Radek Svoboda;Klávesnice USB;Periferie;1;647;vyrizena
+5918;2026-01-17;Lenka Urbanová;Stojan na notebook;Kancelář;1;657;vyrizena
+6081;2026-01-17;Josef Svoboda;Webkamera HD;Příslušenství;1;874;vyrizena
+5235;2026-01-18;Ondřej Kučera;Sluchátka s mikrofonem;Audio;2;832;vyrizena
+5366;2026-01-18;Petr Růžička;Kancelářská židle;Kancelář;2;3581;vyrizena
+5436;2026-01-18;Eliška Svobodová;Kancelářská židle;Kancelář;1;3791;vyrizena
+5223;2026-01-19;Eliška Horáková;Externí SSD 1 TB;Úložiště;1;2592;vyrizena
+5551;2026-01-19;Ondřej Černý;Webkamera HD;Příslušenství;1;833;vyrizena
+5570;2026-01-19;Lenka Horáková;Router Wi‑Fi 6;Síťové prvky;1;1956;vyrizena
+5674;2026-01-19;Eliška Jelínková;Tonner černý;Tiskárny;2;1511;vyrizena
+5884;2026-01-19;Martin Pokorný;"Notebook 15""";Notebooky;1;15384;vyrizena
+5073;2026-01-20;Barbora Fialová;Tonner černý;Tiskárny;2;1689;vyrizena
+5381;2026-01-20;Martin Dvořák;"Notebook 15""";Notebooky;4;17640;vyrizena
+5386;2026-01-20;Eliška Králová;Sluchátka s mikrofonem;Audio;1;839;stornovana
+5498;2026-01-20;Karolína Němcová;Router Wi‑Fi 6;Síťové prvky;1;2015;vyrizena
+5560;2026-01-20;Josef Svoboda;Sluchátka s mikrofonem;Audio;3;836;vyrizena
+5672;2026-01-20;Monika Svobodová;Switch 8 portů;Síťové prvky;3;1000;vyrizena
+5834;2026-01-20;Marek Dvořák;Sluchátka s mikrofonem;Audio;5;852;vyrizena
+5928;2026-01-20;Monika Procházková;USB disk 128 GB;Úložiště;1;332;vyrizena
+6004;2026-01-20;Michaela Růžičková;Sluchátka s mikrofonem;Audio;1;790;vyrizena
+6072;2026-01-20;Kristýna Procházková;"Monitor 27""";Monitory;1;4691;vyrizena
+5075;2026-01-21;Michal Kučera;"Monitor 24""";Monitory;1;3097;vyrizena
+5502;2026-01-21;Adam Fiala;"Monitor 27""";Monitory;4;4883;vyrizena
+5843;2026-01-21;Adam Pospíšil;Externí SSD 1 TB;Úložiště;3;2302;vyrizena
+5955;2026-01-21;Roman Procházka;Sluchátka s mikrofonem;Audio;3;844;vyrizena
+6092;2026-01-21;Lenka Fialová;Tiskárna laserová;Tiskárny;2;4122;vyrizena
+6162;2026-01-21;Tomáš Svoboda;Webkamera HD;Příslušenství;4;962;vyrizena
+6248;2026-01-21;Iveta Růžičková;Reproduktory 2.0;Audio;1;1055;vyrizena
+5200;2026-01-22;Adam Horák;LED stolní lampa;Kancelář;1;837;vyrizena
+5277;2026-01-22;Radek Beneš;Kancelářská židle;Kancelář;3;3498;vyrizena
+5303;2026-01-22;Karel Král;"Monitor 24""";Monitory;4;3536;vyrizena
+5328;2026-01-22;Lucie Sedláčková;Klávesnice USB;Periferie;2;670;vyrizena
+5380;2026-01-22;Josef Svoboda;"Monitor 27""";Monitory;3;4948;vyrizena
+5596;2026-01-22;Anna Nováková;"Monitor 24""";Monitory;1;3038;vyrizena
+5734;2026-01-22;Matěj Urban;Sluchátka s mikrofonem;Audio;2;806;vyrizena
+5815;2026-01-22;Karel Fiala;Kancelářská židle;Kancelář;1;3642;vyrizena
+5835;2026-01-22;Josef Horák;Tiskárna laserová;Tiskárny;1;4446;vyrizena
+6013;2026-01-22;Matěj Horák;Sluchátka s mikrofonem;Audio;3;748;vyrizena
+6141;2026-01-22;Radek Němec;Dokovací stanice;Příslušenství;1;2535;vyrizena
+5092;2026-01-23;Michal Němec;USB disk 128 GB;Úložiště;1;324;vyrizena
+5243;2026-01-23;Lukáš Hájek;Kancelářská židle;Kancelář;1;3781;vyrizena
+5340;2026-01-23;Petra Černá;Kancelářská židle;Kancelář;2;3725;stornovana
+5350;2026-01-23;Vojtěch Pospíšil;USB disk 128 GB;Úložiště;1;331;vyrizena
+5361;2026-01-23;Lenka Fialová;Klávesnice USB;Periferie;4;644;vyrizena
+5385;2026-01-23;Lukáš Procházka;Tiskárna laserová;Tiskárny;1;4516;vyrizena
+5651;2026-01-23;Jakub Procházka;LED stolní lampa;Kancelář;1;797;vyrizena
+5764;2026-01-23;Filip Růžička;Sluchátka s mikrofonem;Audio;1;861;vyrizena
+6014;2026-01-23;Lenka Svobodová;"Monitor 27""";Monitory;2;4756;vyrizena
+6070;2026-01-23;Petr Pospíšil;Klávesnice USB;Periferie;3;646;vyrizena
+5419;2026-01-24;Roman Dvořák;Kancelářská židle;Kancelář;2;3600;vyrizena
+5424;2026-01-24;Adéla Fialová;Reproduktory 2.0;Audio;2;1032;vyrizena
+5878;2026-01-24;Petr Kučera;Externí SSD 1 TB;Úložiště;1;2290;vyrizena
+5947;2026-01-24;Daniel Procházka;Reproduktory 2.0;Audio;1;1056;stornovana
+6008;2026-01-24;Tereza Procházková;USB disk 128 GB;Úložiště;1;317;vyrizena
+6167;2026-01-24;Klára Nováková;Externí SSD 1 TB;Úložiště;1;2284;vyrizena
+6179;2026-01-24;Jiří Pokorný;Switch 8 portů;Síťové prvky;1;934;vyrizena
+5100;2026-01-25;Adam Navrátil;Externí SSD 1 TB;Úložiště;4;2665;vyrizena
+5486;2026-01-25;David Beneš;"Notebook 15""";Notebooky;4;17013;vyrizena
+6080;2026-01-25;David Beneš;Reproduktory 2.0;Audio;3;964;vyrizena
+6139;2026-01-25;Petr Beneš;"Monitor 24""";Monitory;1;3000;vyrizena
+5745;2026-01-26;Alena Jelínková;Myš bezdrátová;Periferie;3;432;vyrizena
+5905;2026-01-26;Lukáš Procházka;LED stolní lampa;Kancelář;2;718;vyrizena
+5950;2026-01-26;Radek Král;Tonner černý;Tiskárny;1;1663;vyrizena
+5141;2026-01-27;Roman Kučera;"Notebook 15""";Notebooky;4;16988;vyrizena
+5427;2026-01-27;Petra Černá;Stojan na notebook;Kancelář;2;726;vyrizena
+5611;2026-01-27;Iveta Pokorná;"Monitor 27""";Monitory;1;4546;vyrizena
+5772;2026-01-27;Lukáš Veselý;"Monitor 27""";Monitory;3;4874;vyrizena
+5850;2026-01-27;Lucie Navrátilová;Sluchátka s mikrofonem;Audio;2;738;vyrizena
+5857;2026-01-27;Jana Růžičková;Myš bezdrátová;Periferie;1;446;vyrizena
+5982;2026-01-27;Veronika Urbanová;Router Wi‑Fi 6;Síťové prvky;1;1842;vyrizena
+6227;2026-01-27;Ondřej Pospíšil;Tiskárna laserová;Tiskárny;1;4542;vyrizena
+5446;2026-01-28;Monika Sedláčková;Router Wi‑Fi 6;Síťové prvky;2;1740;vyrizena
+5665;2026-01-28;Simona Pokorná;USB disk 128 GB;Úložiště;3;318;vyrizena
+5839;2026-01-28;Monika Pokorná;Klávesnice USB;Periferie;1;722;vyrizena
+6171;2026-01-28;Barbora Benešová;Sluchátka s mikrofonem;Audio;1;850;vyrizena
+5301;2026-01-29;Michal Sedláček;Switch 8 portů;Síťové prvky;1;916;vyrizena
+5387;2026-01-29;Josef Novák;USB disk 128 GB;Úložiště;1;325;vyrizena
+6156;2026-01-29;Daniel Němec;"Monitor 27""";Monitory;3;4991;vyrizena
+5216;2026-01-30;Marek Svoboda;Tiskárna laserová;Tiskárny;1;4353;vyrizena
+5220;2026-01-30;Vojtěch Fiala;"Monitor 24""";Monitory;3;3429;vyrizena
+5288;2026-01-30;Vojtěch Veselý;Reproduktory 2.0;Audio;1;948;vyrizena
+5404;2026-01-30;Veronika Hájková;"Monitor 24""";Monitory;2;3254;vyrizena
+5692;2026-01-30;Veronika Hájková;Tiskárna laserová;Tiskárny;1;4535;stornovana
+5794;2026-01-30;David Horák;Myš bezdrátová;Periferie;1;471;vyrizena
+5968;2026-01-30;Vojtěch Černý;"Monitor 24""";Monitory;3;3326;vyrizena
+6006;2026-01-30;Jiří Sedláček;USB disk 128 GB;Úložiště;2;315;vyrizena
+6229;2026-01-30;Lucie Svobodová;Switch 8 portů;Síťové prvky;1;967;vyrizena
+5247;2026-01-31;Tereza Pospíšilová;"Notebook 15""";Notebooky;1;17673;vyrizena
+5515;2026-01-31;Daniel Kučera;Klávesnice USB;Periferie;3;629;vyrizena
+5537;2026-01-31;Michaela Němcová;Sluchátka s mikrofonem;Audio;2;747;vyrizena
+5625;2026-01-31;Lukáš Černý;"Notebook 15""";Notebooky;2;15957;vyrizena
+5729;2026-01-31;Barbora Králová;Dokovací stanice;Příslušenství;3;2587;vyrizena
+5946;2026-01-31;Jiří Novák;USB disk 128 GB;Úložiště;3;360;vyrizena
+5948;2026-01-31;Radek Svoboda;USB disk 128 GB;Úložiště;3;336;stornovana
+6017;2026-01-31;Simona Jelínková;Reproduktory 2.0;Audio;1;943;vyrizena
+6192;2026-01-31;Matěj Kučera;Externí SSD 1 TB;Úložiště;1;2349;vyrizena
+6197;2026-01-31;Martin Kučera;"Monitor 27""";Monitory;2;4930;vyrizena
+5121;2026-02-01;Jan Svoboda;Tiskárna laserová;Tiskárny;1;4410;vyrizena
+5395;2026-02-01;Michal Sedláček;Myš bezdrátová;Periferie;1;421;vyrizena
+5558;2026-02-01;Radek Procházka;Webkamera HD;Příslušenství;1;876;vyrizena
+5721;2026-02-01;Tereza Růžičková;Stojan na notebook;Kancelář;1;673;vyrizena
+6046;2026-02-01;Michal Urban;Switch 8 portů;Síťové prvky;1;946;vyrizena
+5024;2026-02-02;Simona Pospíšilová;"Monitor 24""";Monitory;1;3446;vyrizena
+5183;2026-02-02;Iveta Dvořáková;Externí SSD 1 TB;Úložiště;3;2560;vyrizena
+5268;2026-02-02;Alena Jelínková;Tonner černý;Tiskárny;4;1434;vyrizena
+5444;2026-02-02;Jan Němec;"Monitor 24""";Monitory;2;3142;vyrizena
+5886;2026-02-02;Adéla Růžičková;"Monitor 24""";Monitory;1;2985;vyrizena
+6149;2026-02-02;Tomáš Pospíšil;Switch 8 portů;Síťové prvky;1;959;vyrizena
+6232;2026-02-02;Adéla Sedláčková;Kancelářská židle;Kancelář;2;3434;vyrizena
+5134;2026-02-03;Lucie Němcová;LED stolní lampa;Kancelář;4;770;stornovana
+5244;2026-02-03;Lucie Růžičková;Tiskárna laserová;Tiskárny;1;4479;vyrizena
+5628;2026-02-03;Nikola Urbanová;USB disk 128 GB;Úložiště;2;330;vyrizena
+5822;2026-02-03;Josef Pospíšil;Myš bezdrátová;Periferie;1;424;vyrizena
+6090;2026-02-03;Jiří Černý;Kancelářská židle;Kancelář;1;3492;vyrizena
+5008;2026-02-04;Veronika Svobodová;Webkamera HD;Příslušenství;1;824;vyrizena
+5036;2026-02-04;Eliška Navrátilová;Externí SSD 1 TB;Úložiště;1;2625;vyrizena
+5085;2026-02-04;Jan Hájek;Sluchátka s mikrofonem;Audio;2;768;vyrizena
+5980;2026-02-04;Eliška Navrátilová;"Monitor 24""";Monitory;1;3451;vyrizena
+6025;2026-02-04;Kateřina Nováková;Switch 8 portů;Síťové prvky;1;953;vyrizena
+6076;2026-02-04;Martin Kučera;Myš bezdrátová;Periferie;1;467;vyrizena
+6244;2026-02-04;Lukáš Kučera;"Notebook 15""";Notebooky;1;16881;vyrizena
+5347;2026-02-05;Eliška Kučerová;Switch 8 portů;Síťové prvky;1;1061;vyrizena
+5449;2026-02-05;Karel Hájek;Tiskárna laserová;Tiskárny;1;4126;vyrizena
+5497;2026-02-05;Eliška Urbanová;Dokovací stanice;Příslušenství;2;2334;vyrizena
+5561;2026-02-05;David Horák;Tiskárna laserová;Tiskárny;1;4593;vyrizena
+5603;2026-02-05;Ondřej Svoboda;"Monitor 24""";Monitory;1;3186;vyrizena
+5903;2026-02-05;Eliška Horáková;Tonner černý;Tiskárny;2;1601;vyrizena
+6079;2026-02-05;Radek Fiala;Stojan na notebook;Kancelář;4;635;vyrizena
+5153;2026-02-06;Karel Hájek;Stojan na notebook;Kancelář;4;629;vyrizena
+5359;2026-02-06;Eliška Králová;"Monitor 27""";Monitory;1;4924;vyrizena
+5548;2026-02-06;Lucie Nováková;Externí SSD 1 TB;Úložiště;2;2686;vyrizena
+5766;2026-02-06;Roman Horák;Klávesnice USB;Periferie;2;637;vyrizena
+5773;2026-02-06;Adam Sedláček;"Monitor 27""";Monitory;2;4632;vyrizena
+5849;2026-02-06;Jakub Král;"Monitor 24""";Monitory;1;3229;vyrizena
+6135;2026-02-06;Ondřej Svoboda;Kancelářská židle;Kancelář;1;3508;vyrizena
+6225;2026-02-06;Josef Růžička;Switch 8 portů;Síťové prvky;2;914;vyrizena
+5099;2026-02-07;Karel Král;"Monitor 24""";Monitory;1;3100;vyrizena
+5225;2026-02-07;Jiří Novák;Webkamera HD;Příslušenství;3;878;stornovana
+5281;2026-02-07;Jana Pokorná;USB disk 128 GB;Úložiště;1;348;vyrizena
+5445;2026-02-07;Filip Růžička;USB disk 128 GB;Úložiště;3;329;vyrizena
+5573;2026-02-07;Karolína Němcová;Stojan na notebook;Kancelář;1;628;vyrizena
+5744;2026-02-07;Nikola Králová;LED stolní lampa;Kancelář;1;850;vyrizena
+5803;2026-02-07;Marek Dvořák;Klávesnice USB;Periferie;1;638;vyrizena
+6033;2026-02-07;Adam Fiala;Kancelářská židle;Kancelář;2;3269;vyrizena
+5070;2026-02-08;Veronika Svobodová;Tonner černý;Tiskárny;1;1632;vyrizena
+5252;2026-02-08;Simona Dvořáková;Switch 8 portů;Síťové prvky;1;904;vyrizena
+5317;2026-02-08;Eliška Navrátilová;USB disk 128 GB;Úložiště;2;332;vyrizena
+5594;2026-02-08;Vojtěch Pokorný;Klávesnice USB;Periferie;2;715;vyrizena
+5597;2026-02-08;Tomáš Novák;"Notebook 15""";Notebooky;1;16760;vyrizena
+5728;2026-02-08;Klára Kučerová;Stojan na notebook;Kancelář;1;677;vyrizena
+5751;2026-02-08;Monika Svobodová;Myš bezdrátová;Periferie;1;430;vyrizena
+5802;2026-02-08;Ondřej Jelínek;Stojan na notebook;Kancelář;1;740;vyrizena
+5939;2026-02-08;Alena Černá;"Monitor 24""";Monitory;1;3197;vyrizena
+6000;2026-02-08;Adam Navrátil;Switch 8 portů;Síťové prvky;2;1042;vyrizena
+6088;2026-02-08;Jiří Černý;Kancelářská židle;Kancelář;4;3470;vyrizena
+6108;2026-02-08;David Procházka;Dokovací stanice;Příslušenství;3;2374;vyrizena
+6140;2026-02-08;Michaela Fialová;Dokovací stanice;Příslušenství;1;2487;vyrizena
+5002;2026-02-09;Ondřej Černý;Klávesnice USB;Periferie;3;649;vyrizena
+5080;2026-02-09;Jiří Pokorný;Klávesnice USB;Periferie;1;714;vyrizena
+5136;2026-02-09;Lenka Procházková;Stojan na notebook;Kancelář;1;629;vyrizena
+5179;2026-02-09;Matěj Horák;Stojan na notebook;Kancelář;1;711;vyrizena
+5248;2026-02-09;Roman Hájek;USB disk 128 GB;Úložiště;3;347;vyrizena
+5868;2026-02-09;Filip Svoboda;Myš bezdrátová;Periferie;1;446;vyrizena
+6194;2026-02-09;Jakub Navrátil;Tiskárna laserová;Tiskárny;1;4542;vyrizena
+5065;2026-02-10;Anna Černá;Router Wi‑Fi 6;Síťové prvky;1;1893;vyrizena
+5126;2026-02-10;Daniel Procházka;Reproduktory 2.0;Audio;1;1013;vyrizena
+5157;2026-02-10;Karel Fiala;Switch 8 portů;Síťové prvky;1;971;vyrizena
+5177;2026-02-10;Klára Pokorná;Webkamera HD;Příslušenství;1;911;vyrizena
+5236;2026-02-10;Jiří Navrátil;"Monitor 27""";Monitory;1;4941;vyrizena
+5336;2026-02-10;Kristýna Benešová;Dokovací stanice;Příslušenství;1;2352;vyrizena
+5677;2026-02-10;Monika Horáková;Dokovací stanice;Příslušenství;1;2556;vyrizena
+5697;2026-02-10;Monika Pokorná;Reproduktory 2.0;Audio;1;1008;vyrizena
+6188;2026-02-10;Daniel Urban;Sluchátka s mikrofonem;Audio;2;766;vyrizena
+6249;2026-02-10;Lenka Svobodová;Klávesnice USB;Periferie;1;708;vyrizena
+5018;2026-02-11;Radek Svoboda;"Monitor 27""";Monitory;2;5222;vyrizena
+5156;2026-02-11;Radek Jelínek;Dokovací stanice;Příslušenství;2;2386;vyrizena
+5201;2026-02-11;Barbora Benešová;Dokovací stanice;Příslušenství;2;2469;vyrizena
+5362;2026-02-11;Anna Benešová;Dokovací stanice;Příslušenství;1;2447;vyrizena
+5645;2026-02-11;Lucie Pospíšilová;"Monitor 24""";Monitory;4;3234;vyrizena
+5678;2026-02-11;Iveta Němcová;Sluchátka s mikrofonem;Audio;1;780;stornovana
+5756;2026-02-11;Adam Fiala;LED stolní lampa;Kancelář;2;774;vyrizena
+5812;2026-02-11;Michal Kučera;Tonner černý;Tiskárny;1;1608;vyrizena
+5995;2026-02-11;Jakub Kučera;Kancelářská židle;Kancelář;1;3385;vyrizena
+5149;2026-02-12;Petra Černá;Kancelářská židle;Kancelář;1;3864;vyrizena
+5212;2026-02-12;Anna Růžičková;Tonner černý;Tiskárny;1;1704;vyrizena
+5356;2026-02-12;Adam Urban;Externí SSD 1 TB;Úložiště;1;2678;vyrizena
+5519;2026-02-12;Michal Král;"Monitor 27""";Monitory;2;4430;stornovana
+5621;2026-02-12;Lenka Fialová;Stojan na notebook;Kancelář;5;732;vyrizena
+5740;2026-02-12;Tereza Růžičková;Sluchátka s mikrofonem;Audio;1;835;stornovana
+5827;2026-02-12;Eliška Jelínková;USB disk 128 GB;Úložiště;1;317;vyrizena
+5881;2026-02-12;Filip Svoboda;Switch 8 portů;Síťové prvky;1;921;vyrizena
+6087;2026-02-12;Martin Kučera;Switch 8 portů;Síťové prvky;1;950;vyrizena
+5171;2026-02-13;Radek Horák;USB disk 128 GB;Úložiště;1;344;vyrizena
+5344;2026-02-13;Karolína Svobodová;Tonner černý;Tiskárny;1;1694;vyrizena
+5453;2026-02-13;Vojtěch Beneš;Externí SSD 1 TB;Úložiště;3;2268;vyrizena
+5556;2026-02-13;Klára Nováková;Tonner černý;Tiskárny;3;1557;vyrizena
+5800;2026-02-13;Lukáš Kučera;Stojan na notebook;Kancelář;1;630;vyrizena
+6066;2026-02-13;Nikola Králová;Myš bezdrátová;Periferie;2;467;stornovana
+6215;2026-02-13;Karolína Kučerová;Myš bezdrátová;Periferie;2;479;vyrizena
+5053;2026-02-14;Iveta Benešová;Webkamera HD;Příslušenství;1;905;vyrizena
+5054;2026-02-14;Vojtěch Pokorný;"Monitor 27""";Monitory;3;4487;vyrizena
+5098;2026-02-14;Petr Horák;LED stolní lampa;Kancelář;1;746;vyrizena
+5504;2026-02-14;Lucie Růžičková;LED stolní lampa;Kancelář;1;790;vyrizena
+5530;2026-02-14;Matěj Urban;Tiskárna laserová;Tiskárny;1;4109;stornovana
+5659;2026-02-14;Jana Kučerová;Router Wi‑Fi 6;Síťové prvky;3;1708;vyrizena
+6233;2026-02-14;Simona Pospíšilová;Kancelářská židle;Kancelář;1;3516;vyrizena
+5129;2026-02-15;Lenka Horáková;"Monitor 24""";Monitory;2;3452;stornovana
+5945;2026-02-15;Radek Procházka;"Notebook 15""";Notebooky;1;16517;vyrizena
+5020;2026-02-16;Jakub Jelínek;Tiskárna laserová;Tiskárny;1;4088;vyrizena
+5059;2026-02-16;Radek Němec;"Notebook 15""";Notebooky;1;16532;vyrizena
+5458;2026-02-16;Roman Kučera;Myš bezdrátová;Periferie;1;435;vyrizena
+5655;2026-02-16;Josef Svoboda;Tiskárna laserová;Tiskárny;1;4360;vyrizena
+5713;2026-02-16;Radek Navrátil;"Monitor 27""";Monitory;3;4458;stornovana
+5760;2026-02-16;Jana Růžičková;"Notebook 15""";Notebooky;2;18245;vyrizena
+5782;2026-02-16;Jiří Pospíšil;"Monitor 24""";Monitory;1;3220;vyrizena
+5885;2026-02-16;Matěj Růžička;"Notebook 15""";Notebooky;3;16533;vyrizena
+6096;2026-02-16;Michal Němec;Tonner černý;Tiskárny;4;1644;vyrizena
+5176;2026-02-17;Jakub Jelínek;"Monitor 27""";Monitory;1;4675;stornovana
+5378;2026-02-17;Lukáš Urban;USB disk 128 GB;Úložiště;1;372;vyrizena
+5431;2026-02-17;Daniel Kučera;LED stolní lampa;Kancelář;4;794;vyrizena
+5640;2026-02-17;David Navrátil;"Monitor 27""";Monitory;4;4416;vyrizena
+6030;2026-02-17;Lucie Černá;"Monitor 27""";Monitory;1;4412;stornovana
+6042;2026-02-17;Martin Jelínek;Tonner černý;Tiskárny;1;1686;vyrizena
+5213;2026-02-18;Tereza Hájková;Dokovací stanice;Příslušenství;1;2458;vyrizena
+5637;2026-02-18;Roman Dvořák;Kancelářská židle;Kancelář;2;3857;vyrizena
+5723;2026-02-18;Michaela Růžičková;Reproduktory 2.0;Audio;2;975;vyrizena
+5820;2026-02-18;Barbora Růžičková;Tiskárna laserová;Tiskárny;2;4479;vyrizena
+6082;2026-02-18;Tomáš Novák;Tonner černý;Tiskárny;2;1481;vyrizena
+6098;2026-02-18;Petr Růžička;Stojan na notebook;Kancelář;1;693;vyrizena
+6144;2026-02-18;Ondřej Hájek;Router Wi‑Fi 6;Síťové prvky;1;1797;vyrizena
+6212;2026-02-18;Michal Pokorný;Kancelářská židle;Kancelář;4;3691;vyrizena
+5015;2026-02-19;Michaela Růžičková;Tiskárna laserová;Tiskárny;5;4377;vyrizena
+5022;2026-02-19;Vojtěch Černý;LED stolní lampa;Kancelář;1;785;vyrizena
+5211;2026-02-19;Michal Horák;Sluchátka s mikrofonem;Audio;3;808;vyrizena
+5250;2026-02-19;Tereza Fialová;LED stolní lampa;Kancelář;5;722;vyrizena
+5307;2026-02-19;Radek Fiala;Myš bezdrátová;Periferie;1;441;vyrizena
+5373;2026-02-19;Josef Němec;Externí SSD 1 TB;Úložiště;1;2272;vyrizena
+5503;2026-02-19;Kateřina Nováková;Dokovací stanice;Příslušenství;1;2422;vyrizena
+5513;2026-02-19;Michaela Pokorná;Reproduktory 2.0;Audio;1;1018;vyrizena
+5707;2026-02-19;Adam Sedláček;Router Wi‑Fi 6;Síťové prvky;1;1724;vyrizena
+5750;2026-02-19;Roman Jelínek;Stojan na notebook;Kancelář;1;683;vyrizena
+6204;2026-02-19;Tereza Dvořáková;USB disk 128 GB;Úložiště;1;323;vyrizena
+5006;2026-02-20;Barbora Benešová;Tonner černý;Tiskárny;1;1444;vyrizena
+5033;2026-02-20;Kristýna Benešová;"Notebook 15""";Notebooky;1;15789;vyrizena
+5110;2026-02-20;Jakub Pokorný;Stojan na notebook;Kancelář;1;667;vyrizena
+5234;2026-02-20;Petr Kučera;Tiskárna laserová;Tiskárny;1;4612;vyrizena
+6003;2026-02-20;Karolína Dvořáková;Stojan na notebook;Kancelář;2;696;vyrizena
+6060;2026-02-20;David Urban;Kancelářská židle;Kancelář;1;3563;vyrizena
+5014;2026-02-21;Petr Růžička;Switch 8 portů;Síťové prvky;3;950;vyrizena
+5058;2026-02-21;Josef Jelínek;Router Wi‑Fi 6;Síťové prvky;1;1961;vyrizena
+5127;2026-02-21;Jan Veselý;Sluchátka s mikrofonem;Audio;1;770;vyrizena
+5383;2026-02-21;Roman Jelínek;Externí SSD 1 TB;Úložiště;2;2365;vyrizena
+5397;2026-02-21;Anna Nováková;Externí SSD 1 TB;Úložiště;3;2578;vyrizena
+5549;2026-02-21;Martin Kučera;"Notebook 15""";Notebooky;1;15960;vyrizena
+6022;2026-02-21;Lenka Horáková;"Notebook 15""";Notebooky;1;16848;stornovana
+5170;2026-02-22;Daniel Kučera;Sluchátka s mikrofonem;Audio;1;738;vyrizena
+5316;2026-02-22;Josef Růžička;Kancelářská židle;Kancelář;2;3541;vyrizena
+5351;2026-02-22;Vojtěch Beneš;Klávesnice USB;Periferie;2;741;vyrizena
+5352;2026-02-22;Matěj Pospíšil;Klávesnice USB;Periferie;1;689;vyrizena
+5406;2026-02-22;Radek Fiala;"Monitor 27""";Monitory;2;4769;vyrizena
+5686;2026-02-22;Michal Kučera;Stojan na notebook;Kancelář;1;694;vyrizena
+5716;2026-02-22;Karolína Pospíšilová;"Monitor 24""";Monitory;3;3360;vyrizena
+5994;2026-02-22;Adam Růžička;Stojan na notebook;Kancelář;1;686;vyrizena
+6107;2026-02-22;Klára Kučerová;Externí SSD 1 TB;Úložiště;1;2395;vyrizena
+6180;2026-02-22;Kateřina Veselá;Router Wi‑Fi 6;Síťové prvky;3;1729;vyrizena
+6210;2026-02-22;Josef Novák;Sluchátka s mikrofonem;Audio;1;826;vyrizena
+5297;2026-02-23;Tomáš Svoboda;Webkamera HD;Příslušenství;1;910;vyrizena
+5394;2026-02-23;Ondřej Svoboda;"Monitor 24""";Monitory;1;3169;vyrizena
+5526;2026-02-23;Lucie Sedláčková;Sluchátka s mikrofonem;Audio;1;733;vyrizena
+5588;2026-02-23;Simona Růžičková;Myš bezdrátová;Periferie;3;459;vyrizena
+5676;2026-02-23;Adéla Procházková;Webkamera HD;Příslušenství;1;969;vyrizena
+5832;2026-02-23;Tomáš Procházka;Reproduktory 2.0;Audio;1;1000;vyrizena
+5331;2026-02-24;Marek Černý;Myš bezdrátová;Periferie;1;471;vyrizena
+5644;2026-02-24;Petra Nováková;"Monitor 24""";Monitory;1;3496;vyrizena
+5840;2026-02-24;Veronika Veselá;USB disk 128 GB;Úložiště;1;359;vyrizena
+6146;2026-02-24;Radek Jelínek;Tiskárna laserová;Tiskárny;1;4373;vyrizena
+6160;2026-02-24;Matěj Fiala;Reproduktory 2.0;Audio;2;912;vyrizena
+6246;2026-02-24;Radek Kučera;Externí SSD 1 TB;Úložiště;1;2627;stornovana
+5158;2026-02-25;Eliška Veselá;Klávesnice USB;Periferie;3;664;vyrizena
+5460;2026-02-25;Matěj Urban;Stojan na notebook;Kancelář;2;729;vyrizena
+5517;2026-02-25;Ondřej Kučera;Switch 8 portů;Síťové prvky;1;911;vyrizena
+5538;2026-02-25;Lenka Dvořáková;Router Wi‑Fi 6;Síťové prvky;1;1801;vyrizena
+5635;2026-02-25;Kristýna Benešová;"Notebook 15""";Notebooky;2;15842;vyrizena
+6001;2026-02-25;Martin Beneš;Myš bezdrátová;Periferie;2;431;vyrizena
+6148;2026-02-25;Matěj Růžička;"Monitor 24""";Monitory;1;3209;vyrizena
+6187;2026-02-25;Karolína Dvořáková;"Monitor 24""";Monitory;2;3152;vyrizena
+5146;2026-02-26;Adéla Svobodová;Externí SSD 1 TB;Úložiště;5;2333;vyrizena
+5615;2026-02-26;Martin Procházka;Klávesnice USB;Periferie;1;733;vyrizena
+5873;2026-02-26;Michal Němec;Webkamera HD;Příslušenství;2;901;vyrizena
+5896;2026-02-26;Karolína Hájková;LED stolní lampa;Kancelář;1;847;vyrizena
+5105;2026-02-27;Josef Veselý;Tonner černý;Tiskárny;3;1630;vyrizena
+5398;2026-02-27;Veronika Svobodová;"Monitor 27""";Monitory;1;4921;vyrizena
+5423;2026-02-27;Michal Pokorný;"Monitor 24""";Monitory;1;3164;vyrizena
+5542;2026-02-27;Anna Benešová;Myš bezdrátová;Periferie;2;431;vyrizena
+5614;2026-02-27;Filip Pokorný;Tiskárna laserová;Tiskárny;1;3889;vyrizena
+5652;2026-02-27;David Černý;"Notebook 15""";Notebooky;2;18323;vyrizena
+5712;2026-02-27;Petra Černá;"Notebook 15""";Notebooky;1;15405;vyrizena
+5936;2026-02-27;Radek Jelínek;Switch 8 portů;Síťové prvky;2;1015;vyrizena
+6172;2026-02-27;Petra Nováková;Sluchátka s mikrofonem;Audio;1;830;vyrizena
+5260;2026-02-28;Lucie Růžičková;"Monitor 24""";Monitory;1;3559;vyrizena
+5267;2026-02-28;Michal Král;Tiskárna laserová;Tiskárny;1;4428;vyrizena
+5584;2026-02-28;Iveta Růžičková;Sluchátka s mikrofonem;Audio;1;779;vyrizena
+5590;2026-02-28;Tereza Svobodová;Router Wi‑Fi 6;Síťové prvky;3;1871;vyrizena
+5693;2026-02-28;Jan Navrátil;USB disk 128 GB;Úložiště;2;356;stornovana
+5185;2026-03-01;Jiří Němec;Myš bezdrátová;Periferie;1;488;vyrizena
+5323;2026-03-01;Jakub Pokorný;"Monitor 24""";Monitory;3;3234;vyrizena
+5389;2026-03-01;Kateřina Nováková;"Monitor 24""";Monitory;1;3432;vyrizena
+5396;2026-03-01;David Horák;Reproduktory 2.0;Audio;1;956;vyrizena
+5608;2026-03-01;Adam Němec;USB disk 128 GB;Úložiště;1;335;vyrizena
+5949;2026-03-01;Kristýna Navrátilová;Reproduktory 2.0;Audio;1;892;vyrizena
+6158;2026-03-01;Petra Jelínková;Reproduktory 2.0;Audio;1;919;vyrizena
+6213;2026-03-01;Jan Veselý;Dokovací stanice;Příslušenství;2;2581;vyrizena
+5055;2026-03-02;Vojtěch Král;"Notebook 15""";Notebooky;1;16242;vyrizena
+5403;2026-03-02;Jana Němcová;Stojan na notebook;Kancelář;1;731;vyrizena
+5476;2026-03-02;Vojtěch Fiala;LED stolní lampa;Kancelář;1;766;vyrizena
+5485;2026-03-02;Jakub Král;Tonner černý;Tiskárny;2;1440;vyrizena
+5557;2026-03-02;Adéla Pospíšilová;Externí SSD 1 TB;Úložiště;1;2285;vyrizena
+5758;2026-03-02;Adéla Němcová;Klávesnice USB;Periferie;1;731;vyrizena
+5775;2026-03-02;Michaela Růžičková;"Monitor 27""";Monitory;1;4937;vyrizena
+5842;2026-03-02;Roman Jelínek;Kancelářská židle;Kancelář;1;3415;vyrizena
+5860;2026-03-02;Lukáš Veselý;Klávesnice USB;Periferie;1;663;vyrizena
+5904;2026-03-02;Jan Navrátil;Tonner černý;Tiskárny;3;1609;vyrizena
+5920;2026-03-02;Jakub Růžička;Tiskárna laserová;Tiskárny;2;4144;vyrizena
+6198;2026-03-02;Veronika Urbanová;Webkamera HD;Příslušenství;3;944;vyrizena
+5089;2026-03-03;Lukáš Hájek;Sluchátka s mikrofonem;Audio;1;819;vyrizena
+5113;2026-03-03;Jakub Král;Sluchátka s mikrofonem;Audio;1;835;vyrizena
+5191;2026-03-03;Lucie Nováková;Switch 8 portů;Síťové prvky;1;970;vyrizena
+5208;2026-03-03;Nikola Procházková;Myš bezdrátová;Periferie;2;480;stornovana
+5524;2026-03-03;Karolína Kučerová;Tiskárna laserová;Tiskárny;5;4161;vyrizena
+5696;2026-03-03;Martin Fiala;Tiskárna laserová;Tiskárny;1;4470;vyrizena
+5735;2026-03-03;Anna Benešová;Sluchátka s mikrofonem;Audio;1;757;vyrizena
+6020;2026-03-03;Adéla Svobodová;USB disk 128 GB;Úložiště;1;345;vyrizena
+6183;2026-03-03;Filip Pokorný;Webkamera HD;Příslušenství;2;909;vyrizena
+5007;2026-03-04;Veronika Nováková;LED stolní lampa;Kancelář;2;728;vyrizena
+5045;2026-03-04;Nikola Horáková;Klávesnice USB;Periferie;1;728;stornovana
+5334;2026-03-04;Lucie Navrátilová;Webkamera HD;Příslušenství;1;930;vyrizena
+5341;2026-03-04;Radek Černý;Switch 8 portů;Síťové prvky;1;908;vyrizena
+5636;2026-03-04;David Navrátil;"Notebook 15""";Notebooky;1;17620;vyrizena
+5733;2026-03-04;Adéla Horáková;USB disk 128 GB;Úložiště;2;331;vyrizena
+5909;2026-03-04;Eliška Pokorná;Klávesnice USB;Periferie;1;669;vyrizena
+5938;2026-03-04;Ondřej Hájek;LED stolní lampa;Kancelář;1;804;stornovana
+6012;2026-03-04;Michaela Hájková;Externí SSD 1 TB;Úložiště;4;2542;vyrizena
+6054;2026-03-04;Adam Růžička;Switch 8 portů;Síťové prvky;1;986;vyrizena
+6117;2026-03-04;Lukáš Urban;Tiskárna laserová;Tiskárny;2;4019;vyrizena
+5031;2026-03-05;Jiří Procházka;"Notebook 15""";Notebooky;1;17132;vyrizena
+5354;2026-03-05;Eliška Svobodová;Switch 8 portů;Síťové prvky;1;892;vyrizena
+5448;2026-03-05;Eliška Veselá;Kancelářská židle;Kancelář;1;3249;vyrizena
+5852;2026-03-05;Ondřej Pokorný;Tiskárna laserová;Tiskárny;1;4417;vyrizena
+6034;2026-03-05;Jana Růžičková;Webkamera HD;Příslušenství;2;856;vyrizena
+6050;2026-03-05;Michaela Jelínková;Dokovací stanice;Příslušenství;2;2409;vyrizena
+6064;2026-03-05;Lukáš Novák;Klávesnice USB;Periferie;2;639;vyrizena
+6128;2026-03-05;Martin Dvořák;"Monitor 27""";Monitory;3;5228;vyrizena
+5198;2026-03-06;Kateřina Veselá;Switch 8 portů;Síťové prvky;1;1038;vyrizena
+5462;2026-03-06;Nikola Králová;"Notebook 15""";Notebooky;1;16104;vyrizena
+5587;2026-03-06;Adam Novák;Kancelářská židle;Kancelář;2;3577;vyrizena
+5093;2026-03-07;Barbora Králová;"Monitor 24""";Monitory;1;3194;vyrizena
+5143;2026-03-07;Filip Sedláček;LED stolní lampa;Kancelář;4;795;vyrizena
+5876;2026-03-07;Lukáš Kučera;Router Wi‑Fi 6;Síťové prvky;4;1926;vyrizena
+5914;2026-03-07;Eliška Kučerová;"Notebook 15""";Notebooky;1;16719;vyrizena
+6175;2026-03-07;Radek Svoboda;Router Wi‑Fi 6;Síťové prvky;2;1903;vyrizena
+6205;2026-03-07;Lucie Hájková;Reproduktory 2.0;Audio;1;1023;vyrizena
+5346;2026-03-08;Adéla Fialová;Router Wi‑Fi 6;Síťové prvky;1;1931;stornovana
+5355;2026-03-08;Petr Urban;Externí SSD 1 TB;Úložiště;1;2407;vyrizena
+5425;2026-03-08;Iveta Hájková;Tiskárna laserová;Tiskárny;2;3984;stornovana
+5440;2026-03-08;Daniel Urban;Stojan na notebook;Kancelář;1;715;vyrizena
+5547;2026-03-08;Nikola Horáková;Klávesnice USB;Periferie;2;684;vyrizena
+5888;2026-03-08;Kateřina Nováková;Tiskárna laserová;Tiskárny;2;4105;vyrizena
+5041;2026-03-09;Josef Horák;Dokovací stanice;Příslušenství;1;2492;vyrizena
+5438;2026-03-09;Eliška Králová;"Monitor 27""";Monitory;2;4447;vyrizena
+5559;2026-03-09;Jana Králová;Externí SSD 1 TB;Úložiště;1;2696;stornovana
+5567;2026-03-09;Josef Novák;Stojan na notebook;Kancelář;2;711;vyrizena
+5619;2026-03-09;Tereza Hájková;Externí SSD 1 TB;Úložiště;3;2567;vyrizena
+5632;2026-03-09;Nikola Urbanová;Kancelářská židle;Kancelář;2;3530;vyrizena
+6061;2026-03-09;Petra Černá;Router Wi‑Fi 6;Síťové prvky;1;1735;vyrizena
+6069;2026-03-09;Ondřej Pokorný;Dokovací stanice;Příslušenství;1;2391;vyrizena
+6126;2026-03-09;Petra Veselá;Reproduktory 2.0;Audio;3;1058;vyrizena
+5051;2026-03-10;Adam Horák;"Monitor 24""";Monitory;1;3155;vyrizena
+5296;2026-03-10;Nikola Horáková;Switch 8 portů;Síťové prvky;2;904;vyrizena
+5465;2026-03-10;Marek Pokorný;"Monitor 24""";Monitory;1;3295;vyrizena
+5579;2026-03-10;Kristýna Fialová;Myš bezdrátová;Periferie;1;461;vyrizena
+5607;2026-03-10;Monika Veselá;Kancelářská židle;Kancelář;3;3609;vyrizena
+5915;2026-03-10;Lucie Veselá;Tiskárna laserová;Tiskárny;2;3887;vyrizena
+6147;2026-03-10;Tereza Svobodová;Router Wi‑Fi 6;Síťové prvky;1;1751;stornovana
+5186;2026-03-11;Kristýna Růžičková;Myš bezdrátová;Periferie;1;463;vyrizena
+5322;2026-03-11;Petr Kučera;Kancelářská židle;Kancelář;3;3598;vyrizena
+5489;2026-03-11;Alena Svobodová;Myš bezdrátová;Periferie;1;419;vyrizena
+5554;2026-03-11;Michal Pokorný;Klávesnice USB;Periferie;1;682;vyrizena
+5774;2026-03-11;Alena Sedláčková;"Notebook 15""";Notebooky;1;15296;vyrizena
+5964;2026-03-11;Nikola Pokorná;Externí SSD 1 TB;Úložiště;5;2255;vyrizena
+6011;2026-03-11;Karolína Benešová;Router Wi‑Fi 6;Síťové prvky;1;1737;vyrizena
+6170;2026-03-11;David Navrátil;"Monitor 24""";Monitory;2;3519;vyrizena
+5034;2026-03-12;Martin Dvořák;USB disk 128 GB;Úložiště;2;342;vyrizena
+5284;2026-03-12;Lukáš Urban;Tonner černý;Tiskárny;1;1630;stornovana
+5752;2026-03-12;Michal Urban;Dokovací stanice;Příslušenství;2;2630;vyrizena
+5807;2026-03-12;Radek Navrátil;LED stolní lampa;Kancelář;1;781;vyrizena
+5003;2026-03-13;Anna Veselá;Dokovací stanice;Příslušenství;3;2655;vyrizena
+5798;2026-03-13;Ondřej Černý;Sluchátka s mikrofonem;Audio;1;854;vyrizena
+6005;2026-03-13;Simona Pospíšilová;Tiskárna laserová;Tiskárny;2;4529;stornovana
+6010;2026-03-13;Vojtěch Veselý;Sluchátka s mikrofonem;Audio;1;837;vyrizena
+5402;2026-03-14;Petra Veselá;Sluchátka s mikrofonem;Audio;3;860;vyrizena
+5627;2026-03-14;Kateřina Navrátilová;Stojan na notebook;Kancelář;5;694;vyrizena
+5694;2026-03-14;Karolína Dvořáková;Myš bezdrátová;Periferie;1;455;vyrizena
+5974;2026-03-14;Karolína Svobodová;USB disk 128 GB;Úložiště;3;358;vyrizena
+5998;2026-03-14;Anna Růžičková;LED stolní lampa;Kancelář;2;831;vyrizena
+6132;2026-03-14;Anna Svobodová;Dokovací stanice;Příslušenství;1;2535;vyrizena
+5506;2026-03-15;Petr Dvořák;Stojan na notebook;Kancelář;1;678;vyrizena
+5580;2026-03-15;Vojtěch Beneš;Tonner černý;Tiskárny;1;1535;stornovana
+5634;2026-03-15;Tereza Pospíšilová;Sluchátka s mikrofonem;Audio;1;841;vyrizena
+5824;2026-03-15;Jiří Svoboda;"Monitor 27""";Monitory;1;4703;vyrizena
+5937;2026-03-15;Roman Procházka;Stojan na notebook;Kancelář;1;741;vyrizena
+6058;2026-03-15;Barbora Navrátilová;Tonner černý;Tiskárny;1;1600;vyrizena
+5023;2026-03-16;Martin Beneš;Kancelářská židle;Kancelář;5;3658;vyrizena
+5169;2026-03-16;Roman Jelínek;Klávesnice USB;Periferie;1;672;vyrizena
+5231;2026-03-16;Daniel Němec;Dokovací stanice;Příslušenství;1;2426;vyrizena
+5374;2026-03-16;Jakub Růžička;"Monitor 27""";Monitory;1;4775;vyrizena
+5954;2026-03-16;Michal Horák;Webkamera HD;Příslušenství;1;896;vyrizena
+6123;2026-03-16;Jana Němcová;"Notebook 15""";Notebooky;1;17987;vyrizena
+5147;2026-03-17;Nikola Urbanová;Router Wi‑Fi 6;Síťové prvky;1;1785;stornovana
+5682;2026-03-17;Adam Urban;Dokovací stanice;Příslušenství;3;2382;vyrizena
+5795;2026-03-17;Barbora Pospíšilová;"Monitor 24""";Monitory;2;3438;vyrizena
+5866;2026-03-17;Adéla Urbanová;"Monitor 24""";Monitory;1;3046;vyrizena
+6133;2026-03-17;David Jelínek;"Notebook 15""";Notebooky;1;17224;vyrizena
+5312;2026-03-18;Jakub Pokorný;Router Wi‑Fi 6;Síťové prvky;1;1849;vyrizena
+5421;2026-03-18;David Urban;Tonner černý;Tiskárny;2;1688;vyrizena
+5568;2026-03-18;Karel Svoboda;Tiskárna laserová;Tiskárny;1;4174;vyrizena
+5770;2026-03-18;Lucie Veselá;Tonner černý;Tiskárny;1;1566;vyrizena
+5837;2026-03-18;Eliška Veselá;Dokovací stanice;Příslušenství;2;2276;vyrizena
+6016;2026-03-18;Vojtěch Veselý;Tonner černý;Tiskárny;1;1684;vyrizena
+6035;2026-03-18;Marek Dvořák;"Notebook 15""";Notebooky;1;17323;stornovana
+6099;2026-03-18;Tereza Procházková;Switch 8 portů;Síťové prvky;1;992;vyrizena
+5066;2026-03-19;Petr Dvořák;Myš bezdrátová;Periferie;4;488;vyrizena
+5257;2026-03-19;Alena Sedláčková;Switch 8 portů;Síťové prvky;3;897;vyrizena
+5273;2026-03-19;Michaela Růžičková;"Notebook 15""";Notebooky;1;15499;stornovana
+5293;2026-03-19;Jakub Jelínek;Klávesnice USB;Periferie;2;655;vyrizena
+5327;2026-03-19;Klára Kučerová;Dokovací stanice;Příslušenství;1;2485;vyrizena
+5384;2026-03-19;Roman Pospíšil;Externí SSD 1 TB;Úložiště;1;2602;vyrizena
+5689;2026-03-19;Karolína Hájková;USB disk 128 GB;Úložiště;2;351;vyrizena
+5690;2026-03-19;Adam Navrátil;Externí SSD 1 TB;Úložiště;1;2268;vyrizena
+5738;2026-03-19;Lucie Hájková;"Monitor 24""";Monitory;2;3470;stornovana
+5854;2026-03-19;Monika Svobodová;"Monitor 24""";Monitory;3;3457;vyrizena
+5898;2026-03-19;Eliška Urbanová;"Monitor 24""";Monitory;1;3477;vyrizena
+5958;2026-03-19;Filip Hájek;Myš bezdrátová;Periferie;2;457;vyrizena
+5981;2026-03-19;Kateřina Nováková;Tonner černý;Tiskárny;1;1515;vyrizena
+5101;2026-03-20;Matěj Němec;LED stolní lampa;Kancelář;1;833;vyrizena
+5160;2026-03-20;Adam Sedláček;Reproduktory 2.0;Audio;2;935;vyrizena
+5276;2026-03-20;Daniel Svoboda;Reproduktory 2.0;Audio;1;1029;vyrizena
+5443;2026-03-20;Adam Navrátil;USB disk 128 GB;Úložiště;1;369;vyrizena
+5523;2026-03-20;Radek Němec;Externí SSD 1 TB;Úložiště;5;2677;stornovana
+5609;2026-03-20;Daniel Němec;"Notebook 15""";Notebooky;2;18061;vyrizena
+5658;2026-03-20;Iveta Dvořáková;Stojan na notebook;Kancelář;1;722;vyrizena
+6124;2026-03-20;Martin Beneš;Switch 8 portů;Síťové prvky;5;1024;vyrizena
+5114;2026-03-21;Lucie Pospíšilová;"Monitor 24""";Monitory;5;3331;vyrizena
+5325;2026-03-21;Roman Král;"Monitor 27""";Monitory;1;4603;vyrizena
+5565;2026-03-21;Klára Kučerová;LED stolní lampa;Kancelář;1;732;vyrizena
+5724;2026-03-21;Tereza Procházková;Stojan na notebook;Kancelář;1;745;vyrizena
+6242;2026-03-21;Vojtěch Hájek;Tonner černý;Tiskárny;5;1628;vyrizena
+5032;2026-03-22;Lucie Sedláčková;LED stolní lampa;Kancelář;1;724;vyrizena
+5308;2026-03-22;Vojtěch Král;Klávesnice USB;Periferie;1;654;vyrizena
+5463;2026-03-22;Karolína Němcová;Tiskárna laserová;Tiskárny;4;4622;vyrizena
+5593;2026-03-22;Adéla Urbanová;Switch 8 portů;Síťové prvky;1;972;vyrizena
+5639;2026-03-22;Josef Novák;Reproduktory 2.0;Audio;1;990;vyrizena
+5656;2026-03-22;Nikola Králová;Dokovací stanice;Příslušenství;2;2401;vyrizena
+5987;2026-03-22;Matěj Růžička;Myš bezdrátová;Periferie;1;452;vyrizena
+6214;2026-03-22;Karolína Procházková;Dokovací stanice;Příslušenství;1;2555;vyrizena
+5112;2026-03-23;Veronika Veselá;Switch 8 portů;Síťové prvky;1;1017;vyrizena
+5189;2026-03-23;Matěj Fiala;Sluchátka s mikrofonem;Audio;2;810;vyrizena
+5391;2026-03-23;Michal Novák;Router Wi‑Fi 6;Síťové prvky;1;1931;expedovana
+5405;2026-03-23;Petr Dvořák;Externí SSD 1 TB;Úložiště;1;2391;vyrizena
+5507;2026-03-23;Martin Černý;Tonner černý;Tiskárny;5;1711;vyrizena
+5577;2026-03-23;David Pokorný;Tonner černý;Tiskárny;1;1654;vyrizena
+5836;2026-03-23;Vojtěch Pokorný;Myš bezdrátová;Periferie;3;494;vyrizena
+6105;2026-03-23;Matěj Fiala;Klávesnice USB;Periferie;3;678;vyrizena
+5194;2026-03-24;Matěj Horák;Router Wi‑Fi 6;Síťové prvky;5;1993;expedovana
+5902;2026-03-24;Filip Sedláček;Dokovací stanice;Příslušenství;4;2385;vyrizena
+5150;2026-03-25;Michaela Němcová;Switch 8 portů;Síťové prvky;2;980;vyrizena
+5152;2026-03-25;Marek Král;Router Wi‑Fi 6;Síťové prvky;1;1993;zaplacena
+5408;2026-03-25;Tereza Procházková;Stojan na notebook;Kancelář;3;665;vyrizena
+5660;2026-03-25;Barbora Králová;"Monitor 27""";Monitory;4;5154;expedovana
+5781;2026-03-25;Iveta Pokorná;USB disk 128 GB;Úložiště;1;355;expedovana
+6223;2026-03-25;Veronika Sedláčková;LED stolní lampa;Kancelář;3;732;vyrizena
+5049;2026-03-26;David Urban;Myš bezdrátová;Periferie;1;417;zaplacena
+5090;2026-03-26;Ondřej Sedláček;Webkamera HD;Příslušenství;3;859;vyrizena
+5111;2026-03-26;Michal Sedláček;USB disk 128 GB;Úložiště;2;357;zaplacena
+5162;2026-03-26;Iveta Růžičková;Tonner černý;Tiskárny;1;1619;zaplacena
+5233;2026-03-26;David Dvořák;LED stolní lampa;Kancelář;2;798;zaplacena
+5459;2026-03-26;Monika Králová;Klávesnice USB;Periferie;1;693;vyrizena
+5520;2026-03-26;Radek Kučera;Switch 8 portů;Síťové prvky;2;1003;vyrizena
+5545;2026-03-26;Petra Veselá;"Notebook 15""";Notebooky;2;18121;zaplacena
+5759;2026-03-26;Monika Pokorná;"Monitor 24""";Monitory;2;3522;zaplacena
+5911;2026-03-26;Radek Svoboda;Tiskárna laserová;Tiskárny;2;4342;vyrizena
+6177;2026-03-26;Jiří Novák;Tiskárna laserová;Tiskárny;2;4393;zaplacena
+6236;2026-03-26;Daniel Svoboda;"Notebook 15""";Notebooky;1;16463;stornovana
+5095;2026-03-27;Marek Černý;Dokovací stanice;Příslušenství;2;2308;vyrizena
+5202;2026-03-27;Radek Navrátil;Sluchátka s mikrofonem;Audio;3;787;zaplacena
+5302;2026-03-27;Tereza Pospíšilová;Router Wi‑Fi 6;Síťové prvky;2;1755;expedovana
+5365;2026-03-27;Iveta Benešová;LED stolní lampa;Kancelář;1;835;vyrizena
+5518;2026-03-27;Monika Růžičková;Stojan na notebook;Kancelář;2;692;vyrizena
+5528;2026-03-27;Barbora Pospíšilová;"Notebook 15""";Notebooky;4;16236;stornovana
+5715;2026-03-27;Barbora Králová;Klávesnice USB;Periferie;1;687;vyrizena
+5889;2026-03-27;Ondřej Hájek;Tonner černý;Tiskárny;1;1468;vyrizena
+5965;2026-03-27;Michaela Jelínková;Sluchátka s mikrofonem;Audio;1;722;zaplacena
+5975;2026-03-27;Karel Svoboda;"Monitor 27""";Monitory;1;4625;vyrizena
+5215;2026-03-28;Kristýna Růžičková;USB disk 128 GB;Úložiště;4;348;zaplacena
+5324;2026-03-28;Daniel Procházka;Reproduktory 2.0;Audio;2;908;vyrizena
+5414;2026-03-28;Jakub Černý;Sluchátka s mikrofonem;Audio;1;849;vyrizena
+5429;2026-03-28;Karolína Dvořáková;USB disk 128 GB;Úložiště;1;366;vyrizena
+5829;2026-03-28;Jiří Novák;"Monitor 24""";Monitory;2;3076;vyrizena
+5893;2026-03-28;Anna Černá;Stojan na notebook;Kancelář;1;675;vyrizena
+5906;2026-03-28;Barbora Fialová;Klávesnice USB;Periferie;1;716;vyrizena
+5926;2026-03-28;Adam Urban;Kancelářská židle;Kancelář;3;3689;vyrizena
+5940;2026-03-28;Petra Veselá;Reproduktory 2.0;Audio;2;962;zaplacena
+6078;2026-03-28;Anna Veselá;Sluchátka s mikrofonem;Audio;1;752;stornovana
+5256;2026-03-29;Martin Černý;Tonner černý;Tiskárny;1;1643;expedovana
+5271;2026-03-29;Kristýna Navrátilová;Sluchátka s mikrofonem;Audio;1;756;zaplacena
+5342;2026-03-29;Alena Procházková;Router Wi‑Fi 6;Síťové prvky;1;1917;stornovana
+5345;2026-03-29;Adéla Růžičková;Tiskárna laserová;Tiskárny;3;4358;expedovana
+5667;2026-03-29;David Černý;Switch 8 portů;Síťové prvky;1;990;expedovana
+5685;2026-03-29;Jakub Navrátil;"Monitor 27""";Monitory;2;4673;expedovana
+5894;2026-03-29;Adéla Fialová;Switch 8 portů;Síťové prvky;1;950;vyrizena
+5992;2026-03-29;Nikola Urbanová;LED stolní lampa;Kancelář;1;784;expedovana
+6057;2026-03-29;Eliška Jelínková;Externí SSD 1 TB;Úložiště;3;2316;vyrizena
+5249;2026-03-30;Jiří Sedláček;USB disk 128 GB;Úložiště;1;357;zaplacena
+5392;2026-03-30;Tereza Kučerová;Dokovací stanice;Příslušenství;2;2317;vyrizena
+5418;2026-03-30;Simona Pospíšilová;Tonner černý;Tiskárny;1;1480;vyrizena
+5496;2026-03-30;Lukáš Urban;Klávesnice USB;Periferie;1;722;zaplacena
+5699;2026-03-30;Nikola Horáková;"Monitor 24""";Monitory;1;3299;nova
+5790;2026-03-30;Matěj Navrátil;Klávesnice USB;Periferie;1;746;stornovana
+5892;2026-03-30;Michaela Pokorná;Tonner černý;Tiskárny;1;1638;nova
+6021;2026-03-30;Martin Beneš;Router Wi‑Fi 6;Síťové prvky;4;1826;vyrizena
+6026;2026-03-30;Karel Dvořák;Sluchátka s mikrofonem;Audio;1;775;stornovana
+6143;2026-03-30;Jan Svoboda;Tonner černý;Tiskárny;1;1633;nova
+6189;2026-03-30;Petr Urban;Externí SSD 1 TB;Úložiště;4;2422;vyrizena
+6219;2026-03-30;Petr Horák;Router Wi‑Fi 6;Síťové prvky;1;1997;zaplacena
+6239;2026-03-30;Daniel Beneš;Tonner černý;Tiskárny;2;1505;vyrizena
+5076;2026-03-31;Barbora Fialová;Router Wi‑Fi 6;Síťové prvky;1;1917;expedovana
+5495;2026-03-31;Radek Fiala;Webkamera HD;Příslušenství;1;822;stornovana
+5805;2026-03-31;Michaela Dvořáková;"Notebook 15""";Notebooky;3;17136;stornovana
+5871;2026-03-31;Barbora Králová;Webkamera HD;Příslušenství;1;828;nova
+5953;2026-03-31;Iveta Horáková;Stojan na notebook;Kancelář;2;737;nova
+5102;2026-04-01;Filip Růžička;Dokovací stanice;Příslušenství;2;2587;zaplacena
+5207;2026-04-01;Lucie Hájková;Webkamera HD;Příslušenství;1;898;zaplacena
+5224;2026-04-01;Tomáš Novák;Tonner černý;Tiskárny;1;1520;stornovana
+5230;2026-04-01;Michal Kučera;Router Wi‑Fi 6;Síťové prvky;1;1704;zaplacena
+5292;2026-04-01;Martin Fiala;Reproduktory 2.0;Audio;3;959;stornovana
+5353;2026-04-01;Roman Kučera;Tiskárna laserová;Tiskárny;5;4096;vyrizena
+5457;2026-04-01;Petra Černá;Sluchátka s mikrofonem;Audio;1;750;nova
+5669;2026-04-01;Lenka Fialová;Dokovací stanice;Příslušenství;1;2244;expedovana
+5746;2026-04-01;Jiří Černý;Tiskárna laserová;Tiskárny;1;4024;zaplacena
+5763;2026-04-01;Lucie Svobodová;Webkamera HD;Příslušenství;1;963;nova
+5816;2026-04-01;Monika Horáková;Myš bezdrátová;Periferie;2;449;zaplacena
+5830;2026-04-01;Filip Hájek;"Monitor 24""";Monitory;1;3257;nova
+5989;2026-04-01;Tomáš Svoboda;Webkamera HD;Příslušenství;1;969;vyrizena
+6095;2026-04-01;Tereza Růžičková;Kancelářská židle;Kancelář;1;3298;zaplacena
+6163;2026-04-01;Jan Navrátil;Stojan na notebook;Kancelář;1;724;vyrizena
+5318;2026-04-02;Karolína Benešová;"Monitor 27""";Monitory;1;4523;nova
+5574;2026-04-02;Michal Horák;"Monitor 27""";Monitory;1;5139;expedovana
+5586;2026-04-02;Jiří Král;Webkamera HD;Příslušenství;3;904;stornovana
+5630;2026-04-02;Adéla Králová;USB disk 128 GB;Úložiště;3;341;nova
+5704;2026-04-02;Josef Novák;Dokovací stanice;Příslušenství;1;2247;vyrizena
+5853;2026-04-02;Kristýna Kučerová;Myš bezdrátová;Periferie;1;494;vyrizena
+5858;2026-04-02;David Jelínek;"Monitor 27""";Monitory;2;4438;stornovana
+6174;2026-04-02;Eliška Veselá;Switch 8 portů;Síťové prvky;1;948;zaplacena
+5287;2026-04-03;Alena Procházková;Sluchátka s mikrofonem;Audio;1;734;stornovana
+5377;2026-04-03;Michal Král;"Notebook 15""";Notebooky;2;15423;zaplacena
+5612;2026-04-03;Michaela Jelínková;Myš bezdrátová;Periferie;1;432;zaplacena
+6109;2026-04-03;Iveta Hájková;Webkamera HD;Příslušenství;1;832;stornovana
+5363;2026-04-04;Alena Černá;LED stolní lampa;Kancelář;3;714;expedovana
+5499;2026-04-04;Anna Černá;Tonner černý;Tiskárny;2;1637;nova
+5527;2026-04-04;Jakub Novák;"Monitor 24""";Monitory;1;3188;nova
+5629;2026-04-04;Karolína Procházková;Stojan na notebook;Kancelář;2;680;expedovana
+5687;2026-04-04;Barbora Navrátilová;Tonner černý;Tiskárny;5;1538;vyrizena
+5844;2026-04-04;Jakub Růžička;Sluchátka s mikrofonem;Audio;4;821;nova
+6203;2026-04-04;Jakub Fiala;"Monitor 24""";Monitory;1;3004;nova
+5338;2026-04-05;Petra Veselá;Sluchátka s mikrofonem;Audio;1;816;vyrizena
+5382;2026-04-05;Radek Fiala;"Monitor 27""";Monitory;1;4617;stornovana
+5510;2026-04-05;Michal Horák;Switch 8 portů;Síťové prvky;4;1002;vyrizena
+5626;2026-04-05;Kateřina Němcová;Kancelářská židle;Kancelář;1;3810;vyrizena
+5960;2026-04-05;Michaela Fialová;"Monitor 24""";Monitory;1;3257;vyrizena
+6051;2026-04-05;Radek Kučera;Externí SSD 1 TB;Úložiště;1;2346;vyrizena
+6134;2026-04-05;Barbora Růžičková;"Monitor 24""";Monitory;1;3228;vyrizena
+6178;2026-04-05;Matěj Horák;Stojan na notebook;Kancelář;2;674;zaplacena
+5269;2026-04-06;Anna Nováková;Kancelářská židle;Kancelář;2;3716;zaplacena
+5319;2026-04-06;Radek Fiala;"Monitor 27""";Monitory;1;5229;vyrizena
+5321;2026-04-06;Petra Benešová;Dokovací stanice;Příslušenství;1;2338;stornovana
+5333;2026-04-06;Iveta Hájková;Stojan na notebook;Kancelář;3;705;vyrizena
+5348;2026-04-06;Adéla Urbanová;Dokovací stanice;Příslušenství;3;2499;nova
+5428;2026-04-06;Michal Sedláček;Sluchátka s mikrofonem;Audio;5;790;expedovana
+5471;2026-04-06;Vojtěch Černý;"Monitor 24""";Monitory;1;3356;zaplacena
+5762;2026-04-06;Karolína Pospíšilová;Externí SSD 1 TB;Úložiště;1;2431;nova
+6049;2026-04-06;Matěj Němec;Switch 8 portů;Síťové prvky;2;954;vyrizena
+5084;2026-04-07;Lenka Dvořáková;USB disk 128 GB;Úložiště;2;325;expedovana
+5182;2026-04-07;Vojtěch Navrátil;Sluchátka s mikrofonem;Audio;1;794;expedovana
+5228;2026-04-07;Adéla Procházková;Tiskárna laserová;Tiskárny;1;4220;nova
+5285;2026-04-07;Matěj Fiala;Tiskárna laserová;Tiskárny;1;4569;stornovana
+5330;2026-04-07;Lenka Horáková;Tiskárna laserová;Tiskárny;1;4462;vyrizena
+5447;2026-04-07;Michal Novák;Switch 8 portů;Síťové prvky;1;915;zaplacena
+5487;2026-04-07;Roman Hájek;Webkamera HD;Příslušenství;1;840;vyrizena
+6211;2026-04-07;Adéla Růžičková;Webkamera HD;Příslušenství;2;826;nova
+5071;2026-04-08;Petra Nováková;Switch 8 portů;Síťové prvky;1;933;vyrizena
+5155;2026-04-08;Petr Dvořák;USB disk 128 GB;Úložiště;3;333;nova
+5522;2026-04-08;Petra Fialová;Tonner černý;Tiskárny;1;1434;vyrizena
+5718;2026-04-08;Jan Pokorný;Klávesnice USB;Periferie;1;719;stornovana
+5821;2026-04-08;Barbora Navrátilová;LED stolní lampa;Kancelář;1;841;expedovana
+6173;2026-04-08;Lucie Sedláčková;Sluchátka s mikrofonem;Audio;2;822;nova
+5468;2026-04-09;Ondřej Jelínek;Klávesnice USB;Periferie;3;748;zaplacena
+5657;2026-04-09;Jana Hájková;Reproduktory 2.0;Audio;2;995;nova
+5875;2026-04-09;Klára Králová;Myš bezdrátová;Periferie;2;449;nova
+5942;2026-04-09;Alena Jelínková;Tonner černý;Tiskárny;1;1653;zaplacena
+5990;2026-04-09;Marek Svoboda;LED stolní lampa;Kancelář;2;831;vyrizena
+5118;2026-04-10;Petra Jelínková;"Notebook 15""";Notebooky;4;18286;nova
+5122;2026-04-10;Filip Svoboda;"Notebook 15""";Notebooky;2;15681;expedovana
+5432;2026-04-10;Nikola Horáková;"Monitor 24""";Monitory;3;3155;zaplacena
+5540;2026-04-10;Jiří Novák;"Monitor 24""";Monitory;1;3344;zaplacena
+5847;2026-04-10;Radek Navrátil;Reproduktory 2.0;Audio;5;1024;expedovana
+6029;2026-04-10;Petra Benešová;"Monitor 24""";Monitory;1;3409;stornovana
+5027;2026-04-11;Lenka Nováková;Tonner černý;Tiskárny;1;1591;vyrizena
+5067;2026-04-11;Klára Králová;Kancelářská židle;Kancelář;2;3703;expedovana
+5172;2026-04-11;Marek Černý;Myš bezdrátová;Periferie;2;480;vyrizena
+5190;2026-04-11;Jiří Pospíšil;Kancelářská židle;Kancelář;1;3688;nova
+5335;2026-04-11;Vojtěch Beneš;"Monitor 27""";Monitory;4;5214;vyrizena
+5358;2026-04-11;Petr Urban;Stojan na notebook;Kancelář;1;671;expedovana
+5412;2026-04-11;Klára Jelínková;Switch 8 portů;Síťové prvky;2;938;vyrizena
+6065;2026-04-11;Michaela Růžičková;Switch 8 portů;Síťové prvky;1;966;nova
+5151;2026-04-12;Iveta Navrátilová;Reproduktory 2.0;Audio;1;927;stornovana
+5298;2026-04-12;Nikola Růžičková;Tiskárna laserová;Tiskárny;2;3985;vyrizena
+5452;2026-04-12;Roman Hájek;USB disk 128 GB;Úložiště;3;335;vyrizena
+5736;2026-04-12;Jiří Navrátil;Kancelářská židle;Kancelář;1;3292;nova
+5771;2026-04-12;Anna Svobodová;Switch 8 portů;Síťové prvky;1;1005;expedovana
+5923;2026-04-12;Monika Pokorná;Router Wi‑Fi 6;Síťové prvky;3;1976;zaplacena
+6093;2026-04-12;Daniel Procházka;"Notebook 15""";Notebooky;3;17054;vyrizena
