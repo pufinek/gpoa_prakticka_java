@@ -2,6 +2,7 @@ package View;
 
 import Controller.HlavniController;
 import Model.Objednavka;
+import Model.StavObjednavky;
 
 import javax.swing.*;
 import javax.swing.filechooser.FileNameExtensionFilter;
@@ -17,6 +18,13 @@ public class HlavniOkno extends JFrame {
     private JTextField txtFiltrJmeno;
     private JComboBox cmbFiltrStav;
     private JButton button1;
+    private JButton btnZmenStav;
+    private JTextField txtID;
+    private JTextField txtDatum;
+    private JTextField txtZakaznik;
+    private JTextField txtCena;
+    private JTextField txtPocet;
+    private JButton btnVytvorNovou;
     private HlavniController controller;
 
     public HlavniOkno() {
@@ -45,6 +53,24 @@ public class HlavniOkno extends JFrame {
                 controller.aplikujFiltr();
             }
         });
+        btnZmenStav.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                int  vybranyRadek = table1.getSelectedRow();
+                if(vybranyRadek==-1){
+                    JOptionPane.showMessageDialog(HlavniOkno.this, "Vyberte objednávku z tabulky!", "Chyba", JOptionPane.WARNING_MESSAGE);
+                    return;
+                }
+                controller.zmenStavObjednavky(vybranyRadek);
+
+            }
+        });
+        btnVytvorNovou.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                controller.pridejNovouObjednavku();
+            }
+        });
     }
     public void zobrazObjednavky(List<Objednavka> listObjednavek){
         String[] sloupce = {"id","datum","zakaznik","produkt","kategorie","počet","cena/ks","hodnota","stav"};
@@ -64,11 +90,48 @@ public class HlavniOkno extends JFrame {
         table1.setModel(new DefaultTableModel(data,sloupce));
     }
 
+    public StavObjednavky vyberNovyStavDialog(){
+        return (StavObjednavky) JOptionPane.showInputDialog(this, "Vyberte nový stav", "Změna stavu", JOptionPane.QUESTION_MESSAGE, null, StavObjednavky.values(), StavObjednavky.values()[0]);
+    }
+
     public String getTxtFiltrJmeno() {
         return txtFiltrJmeno.getText().trim().toLowerCase();
     }
 
     public Object getCmbFiltrStav() {
         return cmbFiltrStav.getSelectedItem();
+    }
+
+    public Objednavka getNovaObjednavkaFormular(){
+        String id  = txtID.getText().trim();
+        String datum = txtDatum.getText().trim();
+        String zakaznik = txtZakaznik.getText().trim();
+
+
+        if(id.isEmpty() || datum.isEmpty() || zakaznik.isEmpty() ) {
+            JOptionPane.showMessageDialog(this, "Vyplňte všechna pole formuláře", "Chyba", JOptionPane.ERROR_MESSAGE);
+            return null;
+        }
+
+        int pocet;
+        double cenaZaKus;
+
+        try{
+            pocet = Integer.parseInt(txtPocet.getText().trim());
+            cenaZaKus= Double.parseDouble(txtCena.getText().trim());
+        } catch (NumberFormatException e){
+            JOptionPane.showMessageDialog(this, "Počet a cena musí být čísla!!", "Chyba", JOptionPane.ERROR_MESSAGE);
+            return null;
+        }
+
+        return new Objednavka(id, datum, zakaznik, "Produkt", "kategorie", pocet, cenaZaKus,  StavObjednavky.NOVA);
+    }
+
+    public void smazFormularNovaObjednavka(){
+        txtID.setText("");
+        txtDatum.setText("");
+        txtZakaznik.setText("");
+        txtPocet.setText("");
+        txtCena.setText("");
     }
 }

@@ -2,6 +2,7 @@ package Controller;
 
 import Model.CsvLoader;
 import Model.Objednavka;
+import Model.StavObjednavky;
 import View.HlavniOkno;
 
 import java.util.ArrayList;
@@ -38,5 +39,21 @@ public class HlavniController {
         }
 
         okno.zobrazObjednavky(vyfiltrovane);
+    }
+
+    public void zmenStavObjednavky(int indexRadku) {
+        StavObjednavky novyStav = okno.vyberNovyStavDialog();
+
+        if(novyStav == null){return;}
+        vsechnyObjednavky.get(indexRadku).setStav(novyStav);
+        okno.zobrazObjednavky(vsechnyObjednavky);
+    }
+
+    public void pridejNovouObjednavku(){
+        Objednavka nova = okno.getNovaObjednavkaFormular();
+        if(nova == null){return;}
+        vsechnyObjednavky.add(nova);
+        okno.zobrazObjednavky(vsechnyObjednavky);
+        okno.smazFormularNovaObjednavka();
     }
 }
