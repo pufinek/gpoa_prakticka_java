@@ -23,6 +23,7 @@ public class HlavniController {
         vsechnyObjednavky.clear();
         vsechnyObjednavky.addAll(nacteneObjednavky);
         okno.zobrazObjednavky(nacteneObjednavky);
+        spocitejAnalytiku();
     }
 
     public void aplikujFiltr(){
@@ -47,6 +48,7 @@ public class HlavniController {
         if(novyStav == null){return;}
         vsechnyObjednavky.get(indexRadku).setStav(novyStav);
         okno.zobrazObjednavky(vsechnyObjednavky);
+        spocitejAnalytiku();
     }
 
     public void pridejNovouObjednavku(){
@@ -55,5 +57,29 @@ public class HlavniController {
         vsechnyObjednavky.add(nova);
         okno.zobrazObjednavky(vsechnyObjednavky);
         okno.smazFormularNovaObjednavka();
+        spocitejAnalytiku();
+    }
+
+    public void spocitejAnalytiku() {
+        double celkovaTrzba = 0;
+        int pocetNova = 0, pocetZaplacena = 0, pocetExpandovana = 0, pocetVyrizena = 0, pocetStornovana = 0;
+
+        for(Objednavka o : vsechnyObjednavky){
+            celkovaTrzba += o.getHodnotaObjednavky();
+
+            switch(o.getStav()){
+                case NOVA: pocetNova++; break;
+                case ZAPLACENA: pocetZaplacena++; break;
+                case EXPEDOVANA: pocetExpandovana++; break;
+                case VYRIZENA: pocetVyrizena++; break;
+                case STORNOVANA: pocetStornovana++; break;
+
+            }
+        }
+
+        double prumerna = vsechnyObjednavky.isEmpty() ? 0 : celkovaTrzba / vsechnyObjednavky.size();
+
+        okno.zobrazAnalytiku(celkovaTrzba, prumerna, pocetNova, pocetZaplacena, pocetExpandovana,pocetVyrizena ,pocetStornovana);
+
     }
 }

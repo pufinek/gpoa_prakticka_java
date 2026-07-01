@@ -25,6 +25,7 @@ public class HlavniOkno extends JFrame {
     private JTextField txtCena;
     private JTextField txtPocet;
     private JButton btnVytvorNovou;
+    private JTextArea txtAnalytika;
     private HlavniController controller;
 
     public HlavniOkno() {
@@ -133,5 +134,24 @@ public class HlavniOkno extends JFrame {
         txtZakaznik.setText("");
         txtPocet.setText("");
         txtCena.setText("");
+    }
+
+    public void zobrazAnalytiku(double celkovaTrzba, double prumerna, int pocetNova,int  pocetZaplacena, int pocetExpandovana,int pocetVyrizena ,int pocetStornovana){
+
+        String vysledky = String.format(
+                "=== ANALYTIKA ===\n" +
+                        "Celková tržba:       %.2f Kč\n" +
+                        "Průměrná hodnota:    %.2f Kč\n\n" +
+                        "=== POČTY PODLE STAVU ===\n" +
+                        "Nová:        %d\n" +
+                        "Zaplacená:   %d\n" +
+                        "Expedovaná:  %d\n" +
+                        "Vyřízená:    %d\n" +
+                        "Stornovaná:  %d",
+                celkovaTrzba, prumerna,
+                pocetNova, pocetZaplacena, pocetExpandovana, pocetVyrizena, pocetStornovana
+        );
+
+        txtAnalytika.setText(vysledky);
     }
 }
